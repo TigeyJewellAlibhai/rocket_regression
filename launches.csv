@@ -90,16 +90,16 @@ Falcon 9 Block 5,SXM-8,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET J
 Falcon 9 Block 5,CRS-19,SpaceX,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Dec 05, 2019 17:29 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,GPS III-5,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET July, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,CRS-20,SpaceX,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Mar 07, 2020 04:50 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Turksat 5A,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Nov 30, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Sentinel-6A Mike Freilich,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","Tue Nov 10, 2020 19:31 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,GPS III-4,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET November, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Turksat 5A,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET December, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Sentinel-6A Mike Freilich,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","Sat Nov 21, 2020 17:17 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,GPS III-4,SpaceX,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Nov 05, 2020 23:24 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,GPS III-6,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET September, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,KPLO,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Aug 01, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Turksat 5B,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Turksat 5B,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET June, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,SWOT,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","NET Mar 05, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,WorldView Legion,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,WorldView Legion,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,CRS-21,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET Nov 22, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,WorldView Legion,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","NET September, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,WorldView Legion,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,CRS-21,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","Wed Dec 02, 2020 17:50 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,CRS-22,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Mar 12, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon Heavy,USSF-52,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET July, 2021",$90.0 million,Active,"22,819 kN",70.0 m,2,2
 Electron,It's a Test,Rocket Lab,Failure,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Thu May 25, 2017 04:20 UTC",$7.5 million,Active,225 kN,17.0 m,2,0
@@ -121,7 +121,7 @@ Delta IV Heavy,EFT-1,ULA,Success,"SLC-37B, Cape Canaveral AFS, Florida, USA","Fr
 Delta IV Heavy,NROL-37,ULA,Success,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sat Jun 11, 2016 17:51 UTC",$350.0 million,Active,"9,411 kN",72.0 m,2,2
 Delta IV Heavy,Parker Solar Probe,ULA,Success,"SLC-37B, Cape Canaveral AFS, Florida, USA","Sun Aug 12, 2018 07:31 UTC",$350.0 million,Active,"9,411 kN",72.0 m,2,2
 Delta IV Heavy,NROL-71,ULA,Success,"SLC-6, Vandenberg AFB, California, USA","Sat Jan 19, 2019 19:10 UTC",$350.0 million,Active,"9,411 kN",72.0 m,2,2
-Delta IV Heavy,NROL-44,ULA,,"SLC-37B, Cape Canaveral AFS, Florida, USA","NET October, 2020",$350.0 million,Active,"9,411 kN",72.0 m,2,2
+Delta IV Heavy,NROL-44,ULA,,"SLC-37B, Cape Canaveral AFS, Florida, USA","NET November, 2020",$350.0 million,Active,"9,411 kN",72.0 m,2,2
 Delta IV Heavy,NROL-82,ULA,,"SLC-6, Vandenberg AFB, California, USA","NET December, 2020",$350.0 million,Active,"9,411 kN",72.0 m,2,2
 Delta IV Heavy,NROL-68,ULA,,"SLC-37B, Cape Canaveral AFS, Florida, USA","NET January, 2023",$350.0 million,Active,"9,411 kN",72.0 m,2,2
 Delta IV Heavy,NROL-70,ULA,,"SLC-37B, Cape Canaveral AFS, Florida, USA","NET January, 2024",$350.0 million,Active,"9,411 kN",72.0 m,2,2
@@ -372,7 +372,7 @@ Space Shuttle Endeavour,STS-49,NASA,Success,"LC-39B, Kennedy Space Center, Flori
 Atlas V 551,USSF-12 (WFOV),ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET August, 2021",$153.0 million,Active,"12,269 kN",62.2 m,2,5
 Atlas V 511,GSSAP 5 & 6 (USSF-08),ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET March, 2021",$130.0 million,Active,"5,515 kN",62.2 m,2,1
 Atlas V 541,Perseverance,ULA,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jul 30, 2020 11:50 UTC",$145.0 million,Active,"10,581 kN",62.2 m,2,4
-Atlas V 531,NROL-101,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET November, 2020",$140.0 million,Active,"8,892 kN",62.2 m,2,3
+Atlas V 531,NROL-101,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Nov 11, 2020 22:22 UTC",$140.0 million,Active,"8,892 kN",62.2 m,2,3
 Atlas V 401,Landsat 9,ULA,,"SLC-3E, Vandenberg AFB, California, USA","NET Sep 08, 2021",$109.0 million,Active,"3,826 kN",58.3 m,2,0
 Vulcan Centaur,Dream Chaser CRS-1,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET Sep 14, 2021",,Planned,,58.3 m,2,
 Vulcan Centaur,Dream Chaser CRS-2,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET January, 2022",,Planned,,58.3 m,2,
@@ -381,9 +381,9 @@ Long March 3B/YZ-1,BeiDou-3 M5 & M6,CASC,Success,"LC-3, Xichang Satellite Launch
 Vega,PRISMA,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri Mar 22, 2019 01:50 UTC",$37.0 million,Active,"2,200 kN",29.9 m,4,0
 Vega,SSMS n°1 PoC,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Sep 03, 2020 01:51 UTC",$37.0 million,Active,"2,200 kN",29.9 m,4,0
 Vega,Mohammed VI-B,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Nov 21, 2018 01:42 UTC",$37.0 million,Active,"2,200 kN",29.9 m,4,0
-Vega,Taranis & Seosat,Arianespace,,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Sat Nov 14, 2020 01:52 UTC",$37.0 million,Active,"2,200 kN",29.9 m,4,0
+Vega,Taranis & Seosat,Arianespace,,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Tue Nov 17, 2020 01:52 UTC",$37.0 million,Active,"2,200 kN",29.9 m,4,0
 Vega,Falcon Eye 1,Arianespace,Failure,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Jul 11, 2019 01:53 UTC",$37.0 million,Active,"2,200 kN",29.9 m,4,0
-Soyuz ST-A/Fregat-M,Falcon Eye 2,Arianespace,,"ELS, Guiana Space Centre, French Guiana, France","NET November, 2020",,Active,"4,150 kN",46.2 m,4,4
+Soyuz ST-A/Fregat-M,Falcon Eye 2,Arianespace,,"ELS, Guiana Space Centre, French Guiana, France","Sat Nov 28, 2020 01:33 UTC",,Active,"4,150 kN",46.2 m,4,4
 Vega C,LARES 2,ESA,,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","NET June, 2021",,Planned,"4,500 kN",35.0 m,4,0
 Vega,Pléiades-Néo 1 & SSMS n°2,Arianespace,,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","NET February, 2021",$37.0 million,Active,"2,200 kN",29.9 m,4,0
 Vega C,CERÉS 1 & 2,Arianespace,,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","NET November, 2021",,Planned,"4,500 kN",35.0 m,4,0
@@ -689,17 +689,17 @@ H-IIA 202,IGS-Radar 5,MHI,Success,"LA-Y1, Tanegashima Space Center, Japan","Fri 
 Long March 3B/E,Shijian 13,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Wed Apr 12, 2017 11:04 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
 Soyuz FG,Soyuz MS-04 (50S),Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Apr 20, 2017 07:13 UTC",,Retired,"4,056 kN",49.5 m,3,4
 Long March 7/YZ-1A,Tianzhou 1,CASC,Success,"LC-201, Wenchang Satellite Launch Center, China","Thu Apr 20, 2017 11:41 UTC",,Active,"7,200 kN",53.1 m,3,4
-Ariane 1,CAT-1,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Mon Dec 24, 1979 17:14 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,CAT-2 & Others,ESA,Failure,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri May 23, 1980 14:29 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,CAT-3 & Others,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri Jun 19, 1981 12:33 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,MARCES-1 & CAT-4,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Sun Dec 20, 1981 01:29 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,MARCES-B & Sirio-2,ESA,Failure,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Sep 09, 1982 02:12 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,ECS 1 & Oscar-10,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Jun 16, 1983 11:59 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,Intelsat 507,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Oct 19, 1983 00:45 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,Intelsat 508,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Mon Mar 05, 1984 00:50 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,Spacenet F1,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed May 23, 1984 01:33 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,Giotto,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Tue Jul 02, 1985 11:23 UTC",,Retired,"2,772 kN",50.0 m,4,0
-Ariane 1,SPOT-1 & Viking,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Sat Feb 22, 1986 01:44 UTC",,Retired,"2,772 kN",50.0 m,4,0
+Ariane 1,CAT-1,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Mon Dec 24, 1979 17:14 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,CAT-2 & Others,ESA,Failure,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri May 23, 1980 14:29 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,CAT-3 & Others,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri Jun 19, 1981 12:33 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,MARCES-1 & CAT-4,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Sun Dec 20, 1981 01:29 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,MARCES-B & Sirio-2,ESA,Failure,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Sep 09, 1982 02:12 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,ECS 1 & Oscar-10,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Jun 16, 1983 11:59 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,Intelsat 507,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed Oct 19, 1983 00:45 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,Intelsat 508,ESA,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Mon Mar 05, 1984 00:50 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,Spacenet F1,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Wed May 23, 1984 01:33 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,Giotto,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Tue Jul 02, 1985 11:23 UTC",,Retired,"2,772 kN",47.388 m,4,0
+Ariane 1,SPOT-1 & Viking,Arianespace,Success,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Sat Feb 22, 1986 01:44 UTC",,Retired,"2,772 kN",47.388 m,4,0
 Ariane 5 ECA,GSAT-31 & Hellas-Sat-4,Arianespace,Success,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Feb 05, 2019 21:01 UTC",$200.0 million,Active,"15,120 kN",53.0 m,2,2
 SSLV,Microsat-2A,ISRO,,"First Launch Pad, Satish Dhawan Space Centre, India","NET December, 2020",,Planned,,34.0 m,4,0
 SSLV,Demo Flight 2 (BlackSky Global),ISRO,,"Satish Dhawan Space Centre, India","NET April, 2021",,Planned,,34.0 m,4,0
@@ -755,7 +755,7 @@ Long March 3B/YZ-1,BeiDou-3 M1 & M2,CASC,Success,"LC-2, Xichang Satellite Launch
 H-IIA 202,"Ibuki 2, KhalifaSat & Others",MHI,Success,"LA-Y1, Tanegashima Space Center, Japan","Mon Oct 29, 2018 04:08 UTC",$90.0 million,Active,,53.0 m,2,2
 PSLV-QL,EMISAT & Rideshares,ISRO,Success,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Apr 01, 2019 03:57 UTC",$21.0 million,Active,"7,661 kN",44.0 m,4,4
 PSLV-QL,RISAT 2BR1,ISRO,Success,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Dec 11, 2019 09:55 UTC",$21.0 million,Active,"7,661 kN",44.0 m,4,4
-PSLV-CA,RISAT 2BR2 & Others,ISRO,,"First Launch Pad, Satish Dhawan Space Centre, India","NET Nov 06, 2020",$21.0 million,Active,"4,847 kN",44.0 m,4,0
+PSLV-DL,EOS-01 & Others,ISRO,Success,"First Launch Pad, Satish Dhawan Space Centre, India","Sat Nov 07, 2020 09:41 UTC",,Active,"5,867 kN",44.0 m,4,2
 PSLV-DL,Microsat-R,ISRO,Success,"First Launch Pad, Satish Dhawan Space Centre, India","Thu Jan 24, 2019 18:07 UTC",,Active,"5,867 kN",44.0 m,4,2
 PSLV-XL,Cartosat-3 & Rideshares,ISRO,Success,"Second Launch Pad, Satish Dhawan Space Centre, India","Wed Nov 27, 2019 03:58 UTC",$31.0 million,Active,"7,661 kN",44.0 m,4,6
 Soyuz ST-B/Fregat-M,OneWeb #1,Arianespace,Success,"ELS, Guiana Space Centre, French Guiana, France","Wed Feb 27, 2019 21:37 UTC",,Active,"4,150 kN",46.2 m,4,4
@@ -840,7 +840,7 @@ Soyuz 2.1a,Progress MS-14,Roscosmos,Success,"Site 31/6, Baikonur Cosmodrome, Kaz
 Rokot/Briz KM,Cosmos 2530 to 2532,VKS RF,Success,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Nov 30, 2018 02:27 UTC",$41.8 million,Retired,,29.0 m,3,0
 Kuaizhou 1A,CentiSpace-1 S1,ExPace,Success,"Site 95, Jiuquan Satellite Launch Center, China","Sat Sep 29, 2018 04:13 UTC",$5.8 million,Active,,19.4 m,3,0
 Proton-M/Briz-M,Blagovest No.13L,VKS RF,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Dec 21, 2018 00:20 UTC",$65.0 million,Active,"10,532 kN",58.2 m,4,0
-Soyuz 2.1b/Fregat-M,Glonass-K1 n°15L,VKS RF,,"Site 43/3, Plesetsk Cosmodrome, Russia","Sun Oct 25, 2020 19:08 UTC",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Cosmos 2547,VKS RF,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Oct 25, 2020 19:08 UTC",,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1a/Fregat-M,Meridian-M n°18L,VKS RF,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jul 30, 2019 05:56 UTC",$48.5 million,Active,"4,150 kN",42.5 m,4,4
 Atlas V 551,ViaSat-3,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET October, 2021",$153.0 million,Active,"12,269 kN",62.2 m,2,5
 LauncherOne,ELaNa XX,Virgin Orbit,,"Cosmic Girl, Mojave Air and Space Port, California, USA","NET December, 2020",$12.0 million,Active,,16.0 m,2,0
@@ -920,7 +920,7 @@ Ariane 44LP,"Hispasat 1A, Satcom C3",Arianespace,Success,"ELA-2, Guiana Space Ce
 Ariane 42P,Galaxy-7,Arianespace,Success,"ELA-2, Guiana Space Centre, French Guiana, France","Wed Oct 28, 1992 00:15 UTC",,Retired,"4,334 kN",58.72 m,3,2
 Ariane 42P,Superbird A1,Arianespace,Success,"ELA-2, Guiana Space Centre, French Guiana, France","Tue Dec 01, 1992 22:48 UTC",,Retired,"4,334 kN",58.72 m,3,2
 Long March 3C/E,TJS-3,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Mon Dec 24, 2018 16:53 UTC",,Active,"5,923 kN",54.8 m,3,4
-Falcon 9 Block 5,SpaceX Crew-1,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET Nov 15, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,SpaceX Crew-1,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","Sun Nov 15, 2020 00:49 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Ariane 42L,"Astra 1C, Arsene",Arianespace,Success,"ELA-2, Guiana Space Centre, French Guiana, France","Wed May 12, 1993 00:56 UTC",,Retired,"4,538 kN",58.72 m,3,2
 Ariane 44P,Galaxy-4,Arianespace,Success,"ELA-2, Guiana Space Centre, French Guiana, France","Fri Jun 25, 1993 00:18 UTC",,Retired,"4,334 kN",58.72 m,3,4
 Ariane 44L,"Hispasat 1B, Insat-2B",Arianespace,Success,"ELA-2, Guiana Space Centre, French Guiana, France","Thu Jul 22, 1993 22:58 UTC",,Retired,"6,000 kN",58.72 m,3,4
@@ -938,10 +938,10 @@ Soyuz 2.1b/Fregat-M,Cosmos 2534,Roscosmos,Success,"Site 43/4, Plesetsk Cosmodrom
 Proton-M/Briz-M,Cosmos 2539,Roscosmos,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Aug 05, 2019 21:56 UTC",$65.0 million,Active,"10,532 kN",58.2 m,4,0
 Rokot/Briz KM,Cosmos 2540,VKS RF,Success,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Aug 30, 2019 14:00 UTC",$41.8 million,Retired,,29.0 m,3,0
 Soyuz 2.1b/Fregat,Goniets-M n°27L to 29L & Others,VKS RF,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Sep 28, 2020 11:20 UTC",$24.09 million,Active,"4,150 kN",42.5 m,4,4
-Soyuz 2.1b/Fregat-M,Glonass-K2 n°13L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET January, 2021",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Glonass-K2 n°13L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET February, 2021",,Active,"4,150 kN",42.5 m,4,4
 Proton-M/Briz-M,Ekspress-80 & Ekspress-103,Roscosmos,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jul 30, 2020 21:25 UTC",$65.0 million,Active,"10,532 kN",58.2 m,4,0
 Proton-M/Briz-M,Eutelsat Satellite,VKS RF,,"Baikonur Cosmodrome, Kazakhstan","NET January, 2021",$65.0 million,Active,"10,532 kN",58.2 m,4,0
-Angara A5/Briz-M,MGM n°2,VKS RF,,"Site 35/1, Plesetsk Cosmodrome, Russia","NET Nov 24, 2020",,Active,"7,680 kN",,3,4
+Angara A5/Briz-M,MGM n°2,VKS RF,,"Site 35/1, Plesetsk Cosmodrome, Russia","NET Nov 28, 2020",,Active,"7,680 kN",,3,4
 Soyuz ST-B/Fregat-MT,O3b FM17-FM20,Arianespace,Success,"ELS, Guiana Space Centre, French Guiana, France","Thu Apr 04, 2019 17:04 UTC",,Active,,46.2 m,4,4
 H-IIA 202,IGS-Optical 7,MHI,Success,"LA-Y1, Tanegashima Space Center, Japan","Sun Feb 09, 2020 01:34 UTC",$90.0 million,Active,,53.0 m,2,2
 Ariane 44LP,"Eutelsat 2F5, Turksat 1A",Arianespace,Failure,"ELA-2, Guiana Space Centre, French Guiana, France","Mon Jan 24, 1994 21:37 UTC",,Retired,"5,800 kN",58.72 m,3,4
@@ -2157,7 +2157,7 @@ Cosmos-2I (63SM),Intercosmos-7,RVSN USSR,Success,"Site 86/1, Kapustin Yar, Russi
 Cosmos-2I (63SM),Intercosmos-8,RVSN USSR,Success,"Site 86/1, Kapustin Yar, Russia","Thu Nov 30, 1972 21:49 UTC",,Retired,,31.0 m,2,0
 Cosmos-2I (63SM),Intercosmos-9,RVSN USSR,Success,"Site 86/1, Kapustin Yar, Russia","Thu Apr 19, 1973 10:20 UTC",,Retired,,31.0 m,2,0
 Long March 3B/E,Apstar-6D,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Thu Jul 09, 2020 12:11 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
-Long March 6,ÑuSat 9 to 18 & Others,CASC,,"LC-16, Taiyuan Satellite Launch Center, China","NET Nov 06, 2020",,Active,"1,188 kN",29.24 m,3,0
+Long March 6,ÑuSat 9 to 18 & Others,CASC,Success,"LC-16, Taiyuan Satellite Launch Center, China","Fri Nov 06, 2020 03:19 UTC",,Active,"1,188 kN",29.24 m,3,0
 Long March 3B/E,ChinaSat 18,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Mon Aug 19, 2019 12:03 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
 Kuaizhou 1A,Jilin-1 Gaofen-02B,ExPace,Success,"Taiyuan Satellite Launch Center, China","Sat Dec 07, 2019 02:55 UTC",$5.8 million,Active,,19.4 m,3,0
 Safir-1B+,Nahid-1,ISA,Prelaunch Failure,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Thu Aug 29, 2019",,Active,337 kN,26.0 m,2,0
@@ -2274,7 +2274,7 @@ Cosmos-3M (11K65M),Sfera #2,RVSN USSR,Failure,"Site 132/2, Plesetsk Cosmodrome, 
 Cosmos-3M (11K65M),Cosmos 381,RVSN USSR,Success,"Site 132/2, Plesetsk Cosmodrome, Russia","Wed Dec 02, 1970 04:00 UTC",,Retired,"1,485 kN",32.0 m,2,0
 Cosmos-3M (11K65M),Ionosfernaya #1,RVSN USSR,Failure,"Site 132/1, Plesetsk Cosmodrome, Russia","Sat Dec 27, 1969 14:20 UTC",,Retired,"1,485 kN",32.0 m,2,0
 Mercury-Redstone,Freedom 7 (MR-3),NASA,Success,"LC-5, Cape Canaveral AFS, Florida, USA","Fri May 05, 1961 14:34 UTC",,Retired,350 kN,25.4 m,1,0
-Falcon 9 Block 5,Transporter 1,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Dec 18, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Transporter 1,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET December, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Transporter 2,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","NET June, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Kuaizhou 1A,KX-09 & Others,ExPace,Success,"Site 95, Jiuquan Satellite Launch Center, China","Fri Aug 30, 2019 23:41 UTC",$5.8 million,Active,,19.4 m,3,0
 Soyuz 2.1a,Soyuz MS-17,Roscosmos,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Oct 14, 2020 05:45 UTC",$48.5 million,Active,"4,150 kN",,3,4
@@ -2444,8 +2444,8 @@ Falcon 9 Block 5,Starlink V1 L9 & BlackSky,SpaceX,Success,"LC-39A, Kennedy Space
 Falcon 9 Block 5,Starlink V1 L10 & SkySat 19 to 21,SpaceX,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Aug 18, 2020 14:31 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L11,SpaceX,Success,"LC-39A, Kennedy Space Center, Florida, USA","Thu Sep 03, 2020 12:46 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L12,SpaceX,Success,"LC-39A, Kennedy Space Center, Florida, USA","Tue Oct 06, 2020 11:29 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Starlink V1 L13,SpaceX,Success,2020,"Sun Oct 18, 2020 12:25 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Starlink V1 L14,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Oct 24, 2020 15:31 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Starlink V1 L13,SpaceX,Success,"LC-39A, Kennedy Space Center, Florida, USA","Sun Oct 18, 2020 12:25 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Starlink V1 L14,SpaceX,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Oct 24, 2020 15:31 UTC",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Transporter 3,SpaceX,,"SLC-4E, Vandenberg AFB, California, USA","NET December, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Proton K/Block D,Luna-18,RVSN USSR,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Sep 02, 1971 13:40 UTC",,Retired,"8,840 kN",56.14 m,4,0
 Proton K/Block D,Luna-19,RVSN USSR,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Sep 28, 1971 10:00 UTC",,Retired,"8,840 kN",56.14 m,4,0
@@ -2530,16 +2530,16 @@ Long March 8,Demo Flight,CASC,,"LC-201, Wenchang Satellite Launch Center, China"
 Atlas V 541,GOES-T,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET Dec 07, 2021",$145.0 million,Active,"10,581 kN",62.2 m,2,4
 Long March 5,Chang'e 6,CASC,,"LC-101, Wenchang Satellite Launch Center, China","NET January, 2023",,Active,"10,565 kN",57.0 m,3,4
 Falcon 9 Block 5,Starlink V1 L15,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET November, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Starlink V1 L16,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET November, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Starlink V1 L16,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET December, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L17,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET December, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L18,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET December, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Starlink V1 L19,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET December, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Starlink V1 L19,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L20,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L21,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Starlink V1 L22,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Starlink V1 L22,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET February, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L23,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET February, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L24,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET February, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
-Falcon 9 Block 5,Starlink V1 L25,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET February, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Starlink V1 L25,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET March, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Falcon 9 Block 5,Starlink V1 L26,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET March, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Long March 1,Dong Fang Hong 1,CASC,Success,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China","Fri Apr 24, 1970 13:35 UTC",,Retired,"1,101 kN",30.45 m,3,0
 Long March 1,Shijian 1,CASC,Success,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China","Wed Mar 03, 1971 12:15 UTC",,Retired,"1,101 kN",30.45 m,3,0
@@ -2583,8 +2583,8 @@ K65M-RB5,BOR-5 n°504,RVSN USSR,Success,"Site 86/1, Kapustin Yar, Russia","Thu A
 K65M-RB5,BOR-5 n°505,RVSN USSR,Success,"Site 86/1, Kapustin Yar, Russia","Wed Jun 22, 1988",,Retired,"1,740 kN",26.0 m,2,0
 Soyuz FG/Fregat,Mars Express,Starsem,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Jun 02, 2003 17:45 UTC",,Retired,,42.5 m,3,4
 H-IIA 202,Hope Mars Mission,JAXA,Success,"LA-Y1, Tanegashima Space Center, Japan","Sun Jul 19, 2020 21:58 UTC",$90.0 million,Active,,53.0 m,2,2
-Soyuz 2.1b/Fregat-M,Glonass-K2 n°14L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET January, 2021",,Active,"4,150 kN",42.5 m,4,4
-Soyuz 2.1b/Fregat-M,Glonass-K1 n°17L,VKS RF,,"Site 43/3, Plesetsk Cosmodrome, Russia","NET January, 2021",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Glonass-K2 n°14L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET March, 2021",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Glonass-K1 n°17L,VKS RF,,"Site 43/3, Plesetsk Cosmodrome, Russia","NET March, 2021",,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1b/Fregat-M,Glonass-K1 n°16L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET December, 2020",,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1b/Fregat-M,Cosmos 2545,VKS RF,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Mar 16, 2020 18:28 UTC",,Active,"4,150 kN",42.5 m,4,4
 Long March 3,DFH-2A-T5,CASC,Partial Failure,"LC-3, Xichang Satellite Launch Center, China","Sat Dec 28, 1991 12:00 UTC",,Retired,"2,962 kN",43.25 m,3,0
@@ -2824,7 +2824,7 @@ Long March 2C,Shijian-8,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launc
 Long March 3A,Chinasat-22A,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Tue Sep 12, 2006 16:02 UTC",$69.7 million,Active,"2,962 kN",52.52 m,3,0
 Long March 2D,XJS-C to F,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Wed Feb 19, 2020 21:07 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
 Soyuz ST-B/Fregat-MT,METOP-SG B1,Arianespace,,"ELS, Guiana Space Centre, French Guiana, France","NET November, 2023",,Active,,46.2 m,4,4
-Soyuz 2.1a,Soyuz MS-18,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET Apr 10, 2021",$48.5 million,Active,"4,150 kN",,3,4
+Soyuz 2.1a,Soyuz MS-18,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET Apr 01, 2021",$48.5 million,Active,"4,150 kN",,3,4
 Soyuz 2.1a,Soyuz MS-19,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET September, 2021",$48.5 million,Active,"4,150 kN",,3,4
 Soyuz 2.1a,Soyuz MS-20,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET December, 2021",$48.5 million,Active,"4,150 kN",,3,4
 Soyuz 2.1a,Soyuz MS-21,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET April, 2022",$48.5 million,Active,"4,150 kN",,3,4
@@ -3259,7 +3259,7 @@ Long March 3B,Chinasat-6B,CASC,Success,"LC-2, Xichang Satellite Launch Center, C
 Long March 4B,CBERS-2B,CASC,Success,"LC-7, Taiyuan Satellite Launch Center, China","Wed Sep 19, 2007 03:26 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
 Long March 3B,Chang'e 1,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Wed Oct 24, 2007 10:05 UTC",,Active,"5,924 kN",54.8 m,3,4
 Rocket 3,Orbital Launch Attempt,Astra,Failure,"LP-3B, Pacific Spaceport Complex, Kodiak, Alaska, USA","Sat Sep 12, 2020 03:19 UTC",$2.5 million,Active,133 kN,11.6 m,2,0
-Starship Prototype,15 Kilometer Test Flight,SpaceX,,"Pad A, South Texas Launch Site, Texas, USA","NET October, 2020",,Active,"6,000 kN",50.0 m,1,0
+Starship Prototype,15 Kilometer Test Flight,SpaceX,,"Pad A, South Texas Launch Site, Texas, USA","NET November, 2020",,Active,"6,000 kN",50.0 m,1,0
 Falcon 9 Block 5,PACE,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Dec 15, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
 Vostok-2M,Meteor n°25,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Mar 20, 1973 11:20 UTC",,Retired,,,3,4
 Vostok-2M,Meteor n°26,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue May 29, 1973 10:16 UTC",,Retired,,,3,4
@@ -3326,7 +3326,7 @@ Vostok-2M,Meteor-Priroda n°5 & Iskra 1,RVSN USSR,Success,"Site 31/6, Baikonur C
 Vostok-2M,Intercosmos 22,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Aug 07, 1981",,Retired,,,3,4
 Vostok-2M,IRS-1A,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Mar 17, 1988 06:43 UTC",,Retired,,,3,4
 Vostok-2M,IRS-1B,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Aug 29, 1991 06:48 UTC",,Retired,,,3,4
-Ceres-1,Demo Flight,Galactic Energy,,"Site 95, Jiuquan Satellite Launch Center, China","NET November, 2020",$4.9 million,Planned,588 kN,19.0 m,4,0
+Ceres-1,Apocalypse-11,Galactic Energy,Success,"Site 95, Jiuquan Satellite Launch Center, China","Sat Nov 07, 2020 07:12 UTC",$4.9 million,Active,588 kN,19.0 m,4,0
 Voskhod,Cosmos 47,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Oct 06, 1964 07:00 UTC",,Retired,,31.0 m,2,4
 Voskhod,Cosmos 57,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Feb 22, 1965 07:30 UTC",,Retired,,31.0 m,2,4
 Voskhod,Cosmos 110,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 22, 1966 20:09 UTC",,Retired,,31.0 m,2,4
@@ -3760,7 +3760,7 @@ Molniya-M /Block 2BL,Cosmos 2469,VKS RF,Success,"Site 16/2, Plesetsk Cosmodrome,
 Molniya-M /Block ML,Molniya-3 n°173,VKS RF,Success,"Site 16/2, Plesetsk Cosmodrome, Russia","Thu Jun 19, 2003 20:00 UTC",,Retired,"4,016 kN",43.4 m,3,4
 Molniya-M /Block ML,Molniya-3 n°165,VKS RF,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Oct 24, 1996 11:37 UTC",,Retired,"4,016 kN",43.4 m,3,4
 Molniya-M /Block ML,Molniya-1T n°172,VKS RF,Success,"Site 16/2, Plesetsk Cosmodrome, Russia","Wed Apr 02, 2003 01:53 UTC",,Retired,"4,016 kN",43.4 m,3,4
-Soyuz 5,Demo Flight,Roscosmos,,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","NET September, 2023",,Planned,"7,257 kN",61.9 m,2,0
+Soyuz 5,Demo Flight,Roscosmos,,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","NET September, 2023",,Planned,"7,257 kN",63.7 m,2,0
 Long March 3B/E,Beidou-3 G2,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Mon Mar 09, 2020 11:55 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
 Long March 3B/E,Beidou-3 G3,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Tue Jun 23, 2020 01:43 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
 Falcon 9 Block 5,Space Adventures,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET October, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
@@ -3900,14 +3900,14 @@ Falcon Heavy,GLS-1,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET Jan
 Falcon Heavy,GLS-2,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET June, 2023",$90.0 million,Active,"22,819 kN",70.0 m,2,2
 Vulcan Centaur,Dream Chaser CRS-7,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET January, 2024",,Planned,,58.3 m,2,
 Soyuz ST-B/Fregat-MT,Galileo FOC FM23-FM24,Arianespace,,"ELS, Guiana Space Centre, French Guiana, France","NET January, 2021",,Active,,46.2 m,4,4
-Soyuz 2.1a/Fregat,Goniets-M n°30L to 32L & Others,VKS RF,,"Plesetsk Cosmodrome, Russia","NET Nov 16, 2020",$48.5 million,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1a/Fregat,Gonets-M n°30L to 32L & Others,VKS RF,,"Plesetsk Cosmodrome, Russia","NET Nov 24, 2020",$48.5 million,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1b/Fregat-M,Cosmos 2546,VKS RF,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri May 22, 2020 07:31 UTC",,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1b,Pion NKS,VKS RF,,"Plesetsk Cosmodrome, Russia","NET November, 2020",$17.42 million,Active,"4,150 kN",,3,4
 Soyuz 2.1a/Volga,Razdan 1,VKS RF,,"Plesetsk Cosmodrome, Russia","NET December, 2020",,Active,"4,150 kN",,4,4
 Soyuz 2.1a,Progress MS-18,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET May, 2021",$48.5 million,Active,"4,150 kN",,3,4
 Soyuz 2.1a,Progress MS-19,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET August, 2021",$48.5 million,Active,"4,150 kN",,3,4
 Soyuz 2.1a,Progress MS-20,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET December, 2021",$48.5 million,Active,"4,150 kN",,3,4
-Soyuz 2.1b/Fregat-M,Glonass-M n°61L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET January, 2021",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Glonass-M n°61L,VKS RF,,"Plesetsk Cosmodrome, Russia","NET February, 2021",,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1a/Fregat-M,CAS500-2 & Others,GK LS,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET May, 2021",$48.5 million,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1a/Fregat-M,Kondor-FKA n°1,Roscosmos,,"Site 1S, Vostochny Cosmodrome, Russia","NET August, 2021",$48.5 million,Active,"4,150 kN",42.5 m,4,4
 Soyuz 2.1b/Fregat-M,Meteor-M n°2-3 & Others,Roscosmos,,"Site 1S, Vostochny Cosmodrome, Russia","NET August, 2021",,Active,"4,150 kN",42.5 m,4,4
@@ -4157,7 +4157,7 @@ Angara A5/Briz-M,Spektr-UF,Roscosmos,,"Site 1A, Vostochny Cosmodrome, Russia","N
 Angara A5/Briz-M,Spektr-M (Millimetron),Roscosmos,,"Site 1A, Vostochny Cosmodrome, Russia","NET January, 2028",,Active,"7,680 kN",,3,4
 Qased,Noor 1,IRGC,Success,"Launch Plateform, Shahrud Missile Test Site","Wed Apr 22, 2020 03:59 UTC",,Active,255 kN,18.6 m,3,0
 Angara A5M,Oriol Crewed Test Flight,Roscosmos,,"Site 1A, Vostochny Cosmodrome, Russia","NET January, 2024",,Planned,"7,680 kN",,2,4
-Jielong-1,Yizheng 03 & 04,CASC,,"Site 95, Jiuquan Satellite Launch Center, China","NET October, 2020",$7.5 million,Active,,,4,0
+Jielong-1,Yizheng 03 & 04,CASC,,"Site 95, Jiuquan Satellite Launch Center, China","NET November, 2020",$7.5 million,Active,,,4,0
 Long March 7,Tianzhou 4,CASC,,"LC-201, Wenchang Satellite Launch Center, China","NET January, 2022",,Active,"7,200 kN",53.1 m,2,4
 Long March 7,Tianzhou 5,CASC,,"LC-201, Wenchang Satellite Launch Center, China","NET June, 2022",,Active,"7,200 kN",53.1 m,2,4
 Long March 2F/G,Shenzhou 14,CASC,,"Site 901 (SLS-1), Jiuquan Satellite Launch Center, China","NET January, 2022",,Active,,62.0 m,2,4
@@ -4199,3 +4199,835 @@ Atlas I,BeppoSAX,Lockheed,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","T
 Atlas I,GOES-K,Lockheed,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Fri Apr 25, 1997 05:49 UTC",,Retired,,43.9 m,2,0
 Atlas IIAS,SOHO,Lockheed,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Sat Dec 02, 1995 08:08 UTC",,Retired,"3,068 kN",47.5 m,2,4
 Atlas IIA,Galaxy 3R,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Dec 15, 1995 00:23 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas II,UHF F7,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Jul 25, 1996 12:42 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIA,GE-1,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Sun Sep 08, 1996 21:49 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIA,Hot Bird 2,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Nov 21, 1996 20:47 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIA,Inmarsat 3-F3,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Wed Dec 18, 1996 01:57 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,JCSAT-4,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Mon Feb 17, 1997 01:42 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,Tempo 2,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Sat Mar 08, 1997 06:01 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Superbird C,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Mon Jul 28, 1997 01:15 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,GE-3,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Sep 04, 1997 12:03 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,Echostar 3,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Sun Oct 05, 1997 21:01 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,DSCS IIIB-13,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Sat Oct 25, 1997 00:46 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Galaxy 8i,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Mon Dec 08, 1997 23:52 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,NROL-5/SDS,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Jan 29, 1998 18:37 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Intelsat 806,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Sat Feb 28, 1998 00:21 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas II,UHF F8,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Mon Mar 16, 1998 21:32 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Intelsat 805,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Jun 18, 1998 22:48 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,Hot Bird 5,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Fri Oct 09, 1998 22:50 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIA,UHF F9,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue Oct 20, 1998 07:19 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,JCSAT-6,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue Feb 16, 1999 01:45 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,Eutelsat W3,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Mon Apr 12, 1999 22:50 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,Echostar 5,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Sep 23, 1999 06:02 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,UHF F10,Lockheed,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Tue Nov 23, 1999 04:06 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Terra,Lockheed,Success,"SLC-3E, Vandenberg AFB, California, USA","Sat Dec 18, 1999 18:57 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,DSCS IIIB-8,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Jan 21, 2000 01:03 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Hispasat 1C,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Thu Feb 03, 2000 23:30 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,GOES-L,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Wed May 03, 2000 07:07 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIA,TDRS-H,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Jun 30, 2000 12:56 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Echostar 6,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Fri Jul 14, 2000 05:21 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,DSCS III-B11,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Oct 20, 2000 00:40 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,NROL-10,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Wed Dec 06, 2000 02:47 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,ICO F2,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Tue Jun 19, 2001 04:41 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,GOES-M,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Mon Jul 23, 2001 07:23 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,NROL-13 (Intruder FA & 5B),Lockheed,Success,"SLC-3E, Vandenberg AFB, California, USA","Sun Sep 09, 2001 15:25 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,NROL-12,Lockheed,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Thu Oct 11, 2001 02:32 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,TDRS-I,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Mar 08, 2002 22:59 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,Hispasat 1D,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Wed Sep 18, 2002 22:04 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIA,TDRS-J,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Dec 05, 2002 02:42 UTC",,Retired,"2,111 kN",47.5 m,2,0
+Atlas IIAS,NROL-18 (Intruder 6A & 6B),Lockheed,Success,"SLC-3E, Vandenberg AFB, California, USA","Tue Dec 02, 2003 10:04 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,AMC-10,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Feb 05, 2004 23:46 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,Superbird 6,ILS,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Apr 16, 2004 00:45 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas IIAS,NROL-1,Lockheed,Success,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue Aug 31, 2004 23:17 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Atlas-E/F Burner,P72-1,General Dynamics,Success,"LC-576A1, Vandenberg AFB, California, USA","Mon Oct 02, 1972 20:10 UTC",,Retired,,,2,0
+Atlas-E/F MSD,NOSS-1,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Fri Apr 30, 1976 19:12 UTC",,Retired,,,2,0
+Atlas-E/F MSD,NOSS-2,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Thu Dec 08, 1977 17:45 UTC",,Retired,,,2,0
+Atlas-E/F MSD,NOSS-3,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Mon Mar 03, 1980 09:27 UTC",,Retired,,,2,0
+Atlas-E/F MSD,NOSS-4,General Dynamics,Failure,"SLC-3W, Vandenberg AFB, California, USA","Tue Dec 09, 1980 07:18 UTC",,Retired,,,2,0
+Atlas-E/F OIS,Geosat,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Mar 13, 1985 02:00 UTC",,Retired,,,2,0
+Atlas-E/F OIS,Solwind,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Sat Feb 24, 1979 08:20 UTC",,Retired,,,2,0
+Atlas-E/F OV1,OV1-13/OV1-14,General Dynamics,Success,"LC-576A2, Vandenberg AFB, California, USA","Sat Apr 06, 1968 09:59 UTC",,Retired,,,2,0
+Atlas-E/F PTS,P73-3,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Sun Jul 14, 1974 05:17 UTC",,Retired,,,2,0
+Atlas-E/F SGS-1,NTS-2,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Thu Jun 23, 1977 09:16 UTC",,Retired,,,3,0
+Atlas-E/F SGS-2,GPS-8,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Thu Jul 14, 1983 10:21 UTC",,Retired,,,3,0
+Atlas-E/F SGS-2,GPS-9,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Jun 13, 1984 11:37 UTC",,Retired,,,3,0
+Atlas-E/F SGS-2,GPS-10,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Sat Sep 08, 1984 21:41 UTC",,Retired,,,3,0
+Atlas-E/F SGS-2,GPS-11,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Oct 09, 1985 02:53 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-1,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Wed Feb 22, 1978 23:44 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-2,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Sat May 13, 1978 10:34 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-3,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Sat Oct 07, 1978 00:28 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-4,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Mon Dec 11, 1978 03:59 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-5,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Sat Feb 09, 1980 23:08 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-6,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Sat Apr 26, 1980 22:00 UTC",,Retired,,,3,0
+Atlas-E/F SGS-1,GPS-7,General Dynamics,Failure,"SLC-3E, Vandenberg AFB, California, USA","Sat Dec 19, 1981 01:10 UTC",,Retired,,,3,0
+Atlas-E/F Star-17A,P72-2,General Dynamics,Failure,"SLC-3W, Vandenberg AFB, California, USA","Sun Apr 13, 1975 00:51 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,Tiros-N,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Fri Oct 13, 1978 11:23 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-A,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Jun 27, 1979 15:51 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-B,General Dynamics,Failure,"SLC-3W, Vandenberg AFB, California, USA","Thu May 29, 1980 10:53 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-C,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Tue Jun 23, 1981 10:52 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP 5D-2/F6,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Tue Dec 21, 1982 02:38 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-E,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Mon Mar 28, 1983 15:52 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP 5D-2/F7,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Fri Nov 18, 1983 06:32 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-F,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Dec 12, 1984 10:42 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-G,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Sep 17, 1986 15:52 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP 5D-2/F8,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Sat Jun 20, 1987 02:34 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP 5D-2/F9,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Feb 03, 1988 05:53 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-H,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Sat Sep 24, 1988 10:02 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP F-10,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Sat Dec 01, 1990 15:57 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-D,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Tue May 14, 1991 15:52 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP F-11,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Thu Nov 28, 1991 13:23 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-I,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Mon Aug 09, 1993 10:02 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP F-12,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Mon Aug 29, 1994 17:38 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,NOAA-J,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Fri Dec 30, 1994 10:02 UTC",,Retired,,,2,0
+Atlas-E/F Star-37S-ISS,DMSP F-13,General Dynamics,Success,"SLC-3W, Vandenberg AFB, California, USA","Fri Mar 24, 1995 14:05 UTC",,Retired,,,2,0
+Atlas-D Mercury,Big Joe 1,NASA,Partial Failure,"LC-14, Cape Canaveral AFS, Florida, USA","Wed Sep 09, 1959 08:19 UTC",,Retired,"1,517 kN",28.7 m,2,0
+Atlas-H MSD,NOSS-5,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Wed Feb 09, 1983 13:47 UTC",,Retired,,,2,0
+Atlas-H MSD,NOSS-6,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Thu Jun 09, 1983 23:23 UTC",,Retired,,,2,0
+Atlas-H MSD,NOSS-7,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Sun Feb 05, 1984 18:44 UTC",,Retired,,,2,0
+Atlas-H MSD,NOSS-8,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Sun Feb 09, 1986 10:06 UTC",,Retired,,,2,0
+Atlas-H MSD,NOSS-9,General Dynamics,Success,"SLC-3E, Vandenberg AFB, California, USA","Fri May 15, 1987 15:45 UTC",,Retired,,,2,0
+Atlas I,UHF F1,General Dynamics,Failure,"SLC-36B, Cape Canaveral AFS, Florida, USA","Thu Mar 25, 1993 21:38 UTC",,Retired,,43.9 m,2,0
+Atlas I,UHF F2,General Dynamics,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Fri Sep 03, 1993 11:17 UTC",,Retired,,43.9 m,2,0
+Atlas IIAS,AMC-11,ILS,Success,"SLC-36B, Cape Canaveral AFS, Florida, USA","Mon Apr 19, 2004 22:22 UTC",,Retired,"3,068 kN",47.5 m,2,4
+Epsilon S,LOTUSat-1 (Demo Flight),IHI Aerospace,,"Mu Pad, Uchinoura Space Center, Japan","NET January, 2023",,Planned,"1,612 kN",27.0 m,4,0
+Soyuz 2.1a/Fregat-M,Tekhnolog,VKS RF,,"Site 43/4, Plesetsk Cosmodrome, Russia","NET January, 2021",$48.5 million,Active,"4,150 kN",42.5 m,4,4
+Titan IIID,KH-9,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Tue Jun 15, 1971 18:41 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9 & SSF-B-22,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Jan 20, 1972 18:36 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9 & SSF-B-23,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Jul 07, 1972 17:46 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9 & SSF-C-3,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Tue Oct 10, 1972 18:03 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Mar 09, 1973 21:00 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Jul 13, 1973 20:24 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,"KH-9, SSF-B-24 & SSF-C-4",Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Sat Nov 10, 1973 20:09 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,"KH-9, SSF-B-25, IRCB",Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Wed Apr 10, 1974 20:20 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,"KH-9, S3 & SSF-B-26",Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Tue Oct 29, 1974 19:30 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIIE,Sphinx & Viking-DS,Martin Marietta,Failure,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Feb 11, 1974 13:48 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIIE,Helios-1,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Dec 10, 1974 07:11 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIID,KH-9 & SSF-C-5,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Sun Jun 08, 1975 18:30 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIIE,Viking 1,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Aug 20, 1975 21:22 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIIE,Viking 2,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Sep 09, 1975 18:39 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIID,KH-9 & S3,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Dec 04, 1975 20:38 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIIE,Helios-2,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Thu Jan 15, 1976 05:34 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIID,"KH-9, S3 & SSF-D-1",Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Jul 08, 1976 18:30 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-11,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Sun Dec 19, 1976 18:19 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Mon Jun 27, 1977 18:30 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIIE,Voyager 2,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Aug 20, 1977 14:29 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIIE,Voyager 1,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Sep 05, 1977 12:56 UTC",,Retired,"12,769 kN",48.8 m,3,2
+Titan IIID,KH-9 & SSF-D-2,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Mar 16, 1978 18:43 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-11,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Wed Jun 14, 1978 18:28 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9 & SSF-D-3,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Mar 16, 1979 18:30 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-11,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Feb 07, 1980 21:10 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9),Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Wed Jun 18, 1980 18:29 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-11,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Sep 03, 1981 18:29 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-9 & SSF-D-4,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Tue May 11, 1982 18:45 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IIID,KH-11,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Wed Nov 17, 1982 21:22 UTC",,Retired,"10,587 kN",36.0 m,2,2
+Titan IV(402)A,DSP,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Jun 14, 1989 13:18 UTC",,Retired,"14,200 kN",54.0 m,4,2
+Commercial Titan III,Skynet 4A & JCSAT-2,Martin Marietta,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Jan 01, 1990 00:07 UTC",$136.6 million,Retired,"12,450 kN",47.0 m,2,2
+Commercial Titan III,Intelsat 603,Martin Marietta,Failure,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Mar 14, 1990 11:52 UTC",$136.6 million,Retired,"12,450 kN",47.0 m,2,2
+Commercial Titan III,Intelsat 604,Martin Marietta,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Jun 23, 1990 11:19 UTC",$136.6 million,Retired,"12,450 kN",47.0 m,2,2
+Titan IV(405)A,SLDCOM & NOSS 3x,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Jun 08, 1990 05:22 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(402)A,DSP,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Nov 13, 1990 00:37 UTC",,Retired,"14,200 kN",54.0 m,4,2
+Titan IV(403)A,Lacrosse,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Mar 08, 1991 12:03 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(403)A,SLDCOM & NOSS 3x,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Nov 08, 1991 07:07 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Commercial Titan III,Mars Observer,Martin Marietta,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 25, 1992 17:05 UTC",$136.6 million,Retired,"12,450 kN",47.0 m,2,2
+Titan IV(404)A,KH-11 Kennen,Martin Marietta,Success,"SLC-4E, Vandenberg AFB, California, USA","Sat Nov 28, 1992 21:34 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(403)A,SLDCOM & 3x NOSS,Martin Marietta,Failure,"SLC-4E, Vandenberg AFB, California, USA","Mon Aug 02, 1993 19:59 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(401)A,Milstar DFS-1,Martin Marietta,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Feb 07, 1994 21:47 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(401)A,Trumpet,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue May 03, 1994 15:55 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(401)A,Mercury,Martin Marietta,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Aug 27, 1994 08:58 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(402)A,DSP,Martin Marietta,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Dec 22, 1994 22:19 UTC",,Retired,"14,200 kN",54.0 m,4,2
+Titan IV(401)A,Mentor,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun May 14, 1995 13:45 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(401)A,Trumpet,Lockheed,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Jul 10, 1995 12:38 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(401)A,Milstar DFS-2,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Nov 06, 1995 05:15 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(404)A,KH-11 Kennen,Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Tue Dec 05, 1995 21:18 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(401)A,Mercury,Lockheed,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Apr 24, 1996 23:37 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(403)A,"SLDCOM, NOSS 3x, TiPS 2x",Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Sun May 12, 1996 21:32 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(405)A,SDS,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jul 03, 1996 00:31 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(404)A,NROL-2 (KH-11 Kennen),Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Dec 20, 1996 18:04 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(402)B,DSP,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Feb 23, 1997 20:20 UTC",,Retired,"15,000 kN",54.0 m,4,2
+Titan IV(401)B,Cassini–Huygens,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Oct 15, 1997 08:43 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(403)A,NROL-3 (Lacrosse),Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Oct 24, 1997 02:32 UTC",,Retired,"14,200 kN",54.0 m,2,2
+Titan IV(401)A,NROL-4 (Trumpet),Lockheed,Success,"SLC-41, Cape Canaveral AFS, Florida, USA","Sat Nov 08, 1997 02:05 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(401)B,NROL-6 (Mentor),Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat May 09, 1998 01:38 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(401)A,NROL-7 (Mercury),Lockheed,Failure,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Aug 12, 1998 11:30 UTC",,Retired,"14,200 kN",63.0 m,3,2
+Titan IV(402)B,DSP,Lockheed,Failure,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Apr 09, 1999 17:01 UTC",,Retired,"15,000 kN",54.0 m,4,2
+Titan IV(401)B,Milstar DFS-3m,Lockheed,Failure,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 30, 1999 16:30 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(404)B,NROL-9 (Misty),Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Sat May 22, 1999 09:36 UTC",,Retired,"15,000 kN",54.0 m,2,2
+Titan IV(402)B,DSP,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon May 08, 2000 16:01 UTC",,Retired,"15,000 kN",54.0 m,4,2
+Titan IV(403)B,NROL-11 (Onyx),Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Thu Aug 17, 2000 23:45 UTC",,Retired,"15,000 kN",54.0 m,2,2
+Titan IV(401)B,Milstar DFS-4,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Feb 27, 2001 21:20 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(402)B,DSP,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Aug 06, 2001 07:28 UTC",,Retired,"15,000 kN",54.0 m,4,2
+Titan IV(404)B,NROL-14 (KH-11 Kennen),Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Fri Oct 05, 2001 21:21 UTC",,Retired,"15,000 kN",54.0 m,2,2
+Titan IV(401)B,Milstar DFS-5,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Jan 16, 2002 00:30 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(401)B,Milstar DFS-6,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Apr 08, 2003 13:43 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(401)B,NROL-19 (Mentor),Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue Sep 09, 2003 04:29 UTC",,Retired,"15,000 kN",62.0 m,3,2
+Titan IV(402)B,DSP,Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Feb 14, 2004 18:50 UTC",,Retired,"15,000 kN",54.0 m,4,2
+Titan IV(405)B,NROL-16 (Onyx),Lockheed,Success,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Apr 30, 2005 00:50 UTC",,Retired,"15,000 kN",54.0 m,2,2
+Titan IV(404)B,NROL-20 (KH-11 Kennen),Lockheed,Success,"SLC-4E, Vandenberg AFB, California, USA","Wed Oct 19, 2005 18:05 UTC",,Retired,"15,000 kN",54.0 m,2,2
+Electron/Curie,Pics Or It Didn’t Happen,Rocket Lab,Failure,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Sat Jul 04, 2020 21:19 UTC",$7.5 million,Active,225 kN,17.0 m,3,0
+Thor-DM18 Agena-A,Discoverer 1,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Feb 28, 1959 21:49 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 2,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Mon Apr 13, 1959 21:18 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 3,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Jun 03, 1959 20:09 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 4,US Air Force,Failure,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Thu Jun 25, 1959 22:47 UTC",,Retired,,,3,0
+Thor DM-18 Able-III,Explorer 6,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri Aug 07, 1959 14:24 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 5,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Aug 13, 1959 19:00 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 6,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Wed Aug 19, 1959 19:24 UTC",,Retired,,,3,0
+Thor DM-18 Able-II,Transit 1A,US Air Force,Failure,"SLC-17A, Cape Canaveral AFS, Florida, USA","Thu Sep 17, 1959 14:34 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 7,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Nov 07, 1959 20:28 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 8,US Air Force,Failure,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Nov 20, 1959 19:25 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 9,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Feb 04, 1960 18:51 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 10,US Air Force,Failure,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Feb 19, 1960 20:15 UTC",,Retired,,,3,0
+Thor DM-18 Able-IV,Pioneer 5,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri Mar 11, 1960 13:00 UTC",,Retired,,,3,0
+Thor DM-18 Able-II,TIROS-1,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri Apr 01, 1960 11:40 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,Transit 1B,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Apr 13, 1960 12:02 UTC",,Retired,760 kN,29.0 m,0,2
+Thor-DM18 Agena-A,Discoverer 11,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Apr 15, 1960 20:30 UTC",,Retired,,,3,0
+Thor DM-19 Delta,Echo 1,US Air Force,Failure,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri May 13, 1960 09:16 UTC",,Retired,,,0,3
+Thor-DM21 Ablestar,Transit 2A & GRAB-1,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Jun 22, 1960 05:54 UTC",,Retired,760 kN,29.0 m,0,2
+Thor-DM18 Agena-A,Discoverer 12,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Jun 29, 1960 22:00 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,Discoverer 13,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Wed Aug 10, 1960 20:37 UTC",,Retired,,,3,0
+Thor DM-19 Delta,Echo 1A,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri Aug 12, 1960 09:39 UTC",,Retired,,,0,3
+Thor-DM18 Agena-A,Discoverer 14,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Aug 18, 1960 19:57 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,Courier 1A,US Air Force,Failure,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu Aug 18, 1960 19:58 UTC",,Retired,760 kN,29.0 m,0,2
+Thor-DM18 Agena-A,Discoverer 15,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Tue Sep 13, 1960 22:14 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,Courier 1B,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Tue Oct 04, 1960 17:50 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-21 Agena-B,Discoverer 16,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Oct 26, 1960 20:26 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 17,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat Nov 12, 1960 20:43 UTC",,Retired,,,3,0
+Thor DM-19 Delta,TIROS-2,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Wed Nov 23, 1960 11:13 UTC",,Retired,,,0,3
+Thor-DM21 Ablestar,Transit 3A & GRAB-2,US Air Force,Failure,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Nov 30, 1960 19:50 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-21 Agena-B,Discoverer 18,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Dec 07, 1960 20:20 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 19,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Tue Dec 20, 1960 20:32 UTC",,Retired,,,3,0
+Scout X-1,Explorer (S-56),NASA,Failure,"LA-3, Wallops Flight Facility, Virginia, USA","Sun Dec 04, 1960 21:14 UTC",,Retired,,25.0 m,4,
+Scout X-1,Explorer 9 (S-56A),NASA,Success,"LA-3, Wallops Flight Facility, Virginia, USA","Thu Feb 16, 1961 13:05 UTC",,Retired,,25.0 m,4,
+Scout X-1,Explorer (S-55),NASA,Failure,"LA-3, Wallops Flight Facility, Virginia, USA","Fri Jun 30, 1961 17:09 UTC",,Retired,,25.0 m,4,
+Scout X-1,Explorer 13,NASA,Partial Failure,"LA-3, Wallops Flight Facility, Virginia, USA","Fri Aug 25, 1961 18:29 UTC",,Retired,,25.0 m,4,
+Scout X-2,Solrad 4B,NASA,Failure,"LA-3, Wallops Flight Facility, Virginia, USA","Thu Apr 26, 1962 10:49 UTC",,Retired,440 kN,25.0 m,4,
+Scout X-2M,DSAP-1 F1 (Program 35),US Air Force,Failure,"SLC-5, Vandenberg AFB, California, USA","Thu May 24, 1962",,Retired,440 kN,22.0 m,4,
+Scout X-2M,DSAP-1 F2 (Program 35),US Air Force,Success,"SLC-5, Vandenberg AFB, California, USA","Thu Aug 23, 1962 11:44 UTC",,Retired,440 kN,22.0 m,4,
+Scout X-3,Explorer 16 (S-55B),NASA,Success,"LA-3, Wallops Flight Facility, Virginia, USA","Sun Dec 16, 1962 14:33 UTC",,Retired,,,,
+Soyuz,Cosmos 186,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Oct 27, 1967 09:29 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Cosmos 188,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Oct 30, 1967 08:12 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Cosmos 212,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Apr 14, 1968 10:00 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Cosmos 213,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Apr 15, 1968 09:34 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Cosmos 238,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Aug 28, 1968 10:04 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 2,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 25, 1968 09:00 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 3,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Oct 26, 1968 08:34 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Scout X-3,Transit-5A 1,US Air Force,Success,"SLC-5, Vandenberg AFB, California, USA","Wed Dec 19, 1962 01:25 UTC",,Retired,,,,
+Soyuz,Soyuz 4,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jan 14, 1969 07:30 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 5,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jan 15, 1969 07:04 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 6,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Oct 11, 1969 11:10 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 7,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 12, 1969 10:44 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 8,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Oct 13, 1969 10:19 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 9,Roscosmos,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Jun 01, 1970 19:00 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 10,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Apr 22, 1971 23:54 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 11,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Jun 06, 1971 04:55 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Cosmos 496,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Jul 02, 1972 07:20 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Thor DM-21 Agena-B,Discoverer 20,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Fri Feb 17, 1961 20:25 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 21,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat Feb 18, 1961 22:58 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,Transit 3B & Lofti 1,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Feb 22, 1961 03:45 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-19 Delta,Explorer 10,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Sat Mar 25, 1961 15:17 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,Discoverer 22,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Mar 30, 1961 20:34 UTC",,Retired,,,3,0
+Soyuz,Cosmos 573,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 15, 1973 06:00 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Thor DM-21 Agena-B,Discoverer 23,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat Apr 08, 1961 19:21 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 24,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Jun 08, 1961 21:16 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 25,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Fri Jun 16, 1961 23:02 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,"Transit 4A, Injun 1 & GRAB-3",US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu Jun 29, 1961 04:22 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-21 Agena-B,Discoverer 26,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Jul 07, 1961 23:29 UTC",,Retired,,,3,0
+Thor DM-19 Delta,TIROS-3,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Wed Jul 12, 1961 10:25 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,Discoverer 27,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Fri Jul 21, 1961 22:35 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 28,US Air Force,Failure,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Fri Aug 04, 1961 00:01 UTC",,Retired,,,3,0
+Thor DM-19 Delta,Explorer 12,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Wed Aug 16, 1961 03:21 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,Discoverer 29,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Aug 30, 1961 20:00 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 30,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Tue Sep 12, 1961 19:59 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 31,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Sun Sep 17, 1961 21:00 UTC",,Retired,,,3,0
+Soyuz,Soyuz 12,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Sep 27, 1973 12:18 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Thor DM-21 Agena-B,Discoverer 32,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Fri Oct 13, 1961 19:22 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 33,US Air Force,Failure,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Mon Oct 23, 1961 19:23 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 34,US Air Force,Failure,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Sun Nov 05, 1961 20:00 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 35,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Nov 15, 1961 21:23 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,Transit 4B & TRAAC,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Nov 15, 1961 22:26 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-21 Agena-B,Discoverer 36 & Oscar 1,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Tue Dec 12, 1961 20:40 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 37,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Jan 13, 1962 21:41 UTC",,Retired,,,3,0
+Soyuz,Cosmos 613,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jan 29, 1974 05:29 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 13,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Dec 18, 1973 11:55 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Thor-DM21 Ablestar,LOFTI-2A & Others,US Air Force,Failure,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Jan 24, 1962 09:30 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-19 Delta,TIROS-4,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Thu Feb 08, 1962 12:43 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,FTV 2301,US Air Force,Partial Failure,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Wed Feb 21, 1962 18:44 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,Discoverer 38,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Tue Feb 27, 1962 19:39 UTC",,Retired,,,3,0
+Thor DM-19 Delta,OSO-1,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Wed Mar 07, 1962 16:06 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,Discoverer 39,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Wed Apr 18, 1962 00:54 UTC",,Retired,,,3,0
+Thor DM-19 Delta,Ariel 1,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Thu Apr 26, 1962 18:00 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,FTV 1125,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sun Apr 29, 1962 00:30 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,ANNA 1A,US Air Force,Failure,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu May 10, 1962 12:06 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-21 Agena-B,FTV 1126,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Tue May 15, 1962 19:36 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 1128,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Wed May 30, 1962 01:00 UTC",,Retired,,,3,0
+Thor-DM18 Agena-A,FTV 1127 & Oscar 2,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Jun 02, 1962 00:31 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 2312,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Mon Jun 18, 1962 20:20 UTC",,Retired,,,3,0
+Thor DM-19 Delta,TIROS-5,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Tue Jun 19, 1962 12:19 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,FTV 1129,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Jun 23, 1962 00:30 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,FTV 1151,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Thu Jun 28, 1962 01:09 UTC",,Retired,,,3,0
+Thor DM-19 Delta,Telstar 1,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Tue Jul 10, 1962 08:35 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,FTV 1130,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat Jul 21, 1962 00:56 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 1131,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Jul 28, 1962 00:30 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,FTV 1152,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Thu Aug 02, 1962 00:17 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,FTV 1153,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Wed Aug 29, 1962 01:00 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 1132,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat Sep 01, 1962 20:39 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 1133 & ERS-2,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Mon Sep 17, 1962 23:46 UTC",,Retired,,,3,0
+Thor DM-19 Delta,TIROS-6,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Tue Sep 18, 1962 08:53 UTC",,Retired,,,0,3
+Thor DM-21 Agena-B,Alouette 1 & TAVE,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Sat Sep 29, 1962 06:05 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,FTV 1154,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Sat Sep 29, 1962 23:34 UTC",,Retired,,,3,0
+Delta A,Explorer 14,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Tue Oct 02, 1962 22:11 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 1134,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Tue Oct 09, 1962 18:35 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,STARAD,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Fri Oct 26, 1962 16:14 UTC",,Retired,,,3,0
+Delta A,Explorer 15,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Sat Oct 27, 1962 23:15 UTC",,Retired,,,3,0
+Thor-DM21 Ablestar,ANNA 1B,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Wed Oct 31, 1962 08:08 UTC",,Retired,760 kN,29.0 m,0,2
+Thor DM-21 Agena-B,FTV 1136,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Mon Nov 05, 1962 22:04 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,FTV 1135,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Nov 24, 1962 22:01 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,FTV 1155,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Tue Dec 04, 1962 21:30 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,Injun 3 & Others,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Thu Dec 13, 1962 04:07 UTC",,Retired,,,3,0
+Delta B,Relay 1,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Thu Dec 13, 1962 23:30 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,FTV 1156,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Dec 14, 1962 21:26 UTC",,Retired,,,3,0
+Soyuz,Cosmos 656,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon May 27, 1974 07:20 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 14,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jul 03, 1974 18:51 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 15,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Aug 28, 1974 20:10 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz U,Cosmos 638,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 03, 1974 07:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 670,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Aug 06, 1974 00:02 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 672,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Aug 12, 1974",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 16,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Dec 02, 1974 09:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz,Soyuz 17,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 10, 1975 21:43 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 18a (7K-T n°39),RVSN USSR,Failure,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Apr 05, 1975 11:04 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz,Soyuz 18,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat May 24, 1975 14:58 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz U,Soyuz 19 (Apollo-Soyuz),RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jul 15, 1975 12:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 20,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Nov 17, 1975 14:36 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz,Soyuz 21,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jul 06, 1976 12:08 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz U,Soyuz 22,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 15, 1976 09:48 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz,Soyuz 23,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 14, 1976 17:39 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Electron/Curie,RASR-3,Rocket Lab,,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","NET April, 2021",$7.5 million,Active,225 kN,17.0 m,3,0
+Electron/Curie,RASR-4,Rocket Lab,,"Rocket Lab LC-1B, Māhia Peninsula, New Zealand","NET April, 2021",$7.5 million,Active,225 kN,17.0 m,3,0
+Scout X-3M,DSAP-1 F3 (Program 35),US Air Force,Success,"SLC-5, Vandenberg AFB, California, USA","Tue Feb 19, 1963 16:33 UTC",,Retired,,22.0 m,4,
+Scout X-3,Transit-5A 2,US Air Force,Failure,"SLC-5, Vandenberg AFB, California, USA","Fri Apr 05, 1963 03:01 UTC",,Retired,,,,
+Scout X-2M,DSAP-1 F4 (Program 35),US Air Force,Failure,"SLC-5, Vandenberg AFB, California, USA","Fri Apr 26, 1963",,Retired,440 kN,22.0 m,4,
+Scout X-3,Transit-5A 3,US Air Force,Success,"SLC-5, Vandenberg AFB, California, USA","Sun Jun 16, 1963 01:49 UTC",,Retired,,,,
+Scout X-4,CRL-1 (GRS),US Air Force,Success,"SLC-5, Vandenberg AFB, California, USA","Fri Jun 28, 1963 21:19 UTC",,Retired,,25.0 m,4,
+Scout X-2B,DSAP-1 F5 (Program 35),US Air Force,Failure,"SLC-5, Vandenberg AFB, California, USA","Fri Sep 27, 1963 11:17 UTC",,Retired,,22.0 m,4,
+Scout X-4,Explorer 19 (AD-A),NASA,Success,"SLC-5, Vandenberg AFB, California, USA","Thu Dec 19, 1963 18:49 UTC",,Retired,,25.0 m,4,
+Long March 4B,Haiyang 2C,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Sep 21, 2020 05:40 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+New Glenn,Demo Flight,Blue Origin,,"SLC-36A, Cape Canaveral AFS, Florida, USA","NET July, 2021",,Planned,"17,100 kN",82.0 m,2,0
+Angara A5M,Oriol Lunar Flyby Mission,Roscosmos,,"Site 1A, Vostochny Cosmodrome, Russia","NET January, 2029",,Planned,"7,680 kN",,2,4
+Kuaizhou 11,"JSBT, Xiangrikui & Others",ExPace,,"Site 95, Jiuquan Satellite Launch Center, China","NET November, 2020",$28.3 million,Active,,25.0 m,3,0
+Long March 2D,Shiyan-6 02,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sat Jul 04, 2020 23:44 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Long March 4B,Gaofen Duomo & BY-02,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Fri Jul 03, 2020 03:10 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Terran-1,Demo Flight,Relativity,,"SLC-16, Cape Canaveral AFS, Florida, USA","NET October, 2021",$10.0 million,Planned,,,2,0
+Long March 4B,"Ziyuan-3 03, Apocalypse-10 & NJU-HKU 1",CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Sat Jul 25, 2020 03:13 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Long March 5,Chang'e 7,CASC,,"LC-101, Wenchang Satellite Launch Center, China","NET January, 2023",,Active,"10,565 kN",57.0 m,3,4
+Long March 4B,Ziyuan-3 04,CASC,,"LC-9, Taiyuan Satellite Launch Center, China","NET November, 2020",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Long March 4B,Gaofen-7 02,CASC,,"LC-9, Taiyuan Satellite Launch Center, China","NET November, 2020",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Soyuz 2.1a,Space Adventures,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET January, 2023",$48.5 million,Active,"4,150 kN",,3,4
+Long March 3B/E,Tiantong-1 02,CASC,,"Xichang Satellite Launch Center, China","NET November, 2020",$29.15 million,Active,"5,922 kN",56.3 m,3,4
+Long March 3B/E,Tiantong-1 03,CASC,,"Xichang Satellite Launch Center, China","NET November, 2020",$29.15 million,Active,"5,922 kN",56.3 m,3,4
+Shavit-2,Ofek-16,IAI,Success,"Pad 1, Palmachim Airbase, Israel","Mon Jul 06, 2020 01:00 UTC",,Active,554 kN,22.0 m,3,0
+Kuaizhou 1A,GeeSat-1A & 1B,ExPace,,"Site 95, Jiuquan Satellite Launch Center, China","NET November, 2020",$5.8 million,Active,,19.4 m,3,0
+Long March 11H,Jilin-1 High Resolution 03,CASC,Success,"DeBo 3 Barge, Yellow Sea","Tue Sep 15, 2020 01:23 UTC",$5.3 million,Active,"1,176 kN",20.8 m,4,0
+Long March 11A,Demo Flight,CASC,,"Site 95, Jiuquan Satellite Launch Center, China","NET January, 2022",,Planned,,,4,0
+Kuaizhou 1A,Jilin-1 High Resolution 02C,ExPace,Failure,"Site 95, Jiuquan Satellite Launch Center, China","Sat Sep 12, 2020 05:02 UTC",$5.8 million,Active,,19.4 m,3,0
+Minotaur IV,NROL-174,Northrop,,"LP-0B, Wallops Flight Facility, Virginia, USA","NET August, 2021",$46.0 million,Active,"2,200 kN",23.88 m,4,0
+Falcon 9 Block 5,SpaceX Crew-2,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET Mar 30, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,SpaceX Crew-3,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET September, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Palas 1,Demo Flight,Galactic Energy,,"Site 95, Jiuquan Satellite Launch Center, China","NET December, 2022",,Planned,"2,746 kN",42.0 m,2,0
+Hyperbola-1,Ark-2,i-Space,,"Site 95, Jiuquan Satellite Launch Center, China","NET January, 2021",,Active,557 kN,21.0 m,4,0
+Long March 2D,Gaofen-9 04 & Q-SAT,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Soyuz 2.1a/Fregat,RBKA n°1,Roscosmos,,"Site 1S, Vostochny Cosmodrome, Russia","NET January, 2026",$48.5 million,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1a/Fregat,RBKA n°2,Roscosmos,,"Site 1S, Vostochny Cosmodrome, Russia","NET January, 2028",$48.5 million,Active,"4,150 kN",42.5 m,4,4
+Long March 4B,Gaofen-11 02,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Mon Sep 07, 2020 05:57 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Falcon 9 Block 5,SES-18 & SES-19,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Atlas V 531,SES-20 & SES-21,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET January, 2022",$140.0 million,Active,"8,892 kN",62.2 m,2,3
+Falcon 9 Block 5,CRS-23,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET May 10, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,CRS-24,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Oct 02, 2021",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,SpaceX Crew-4,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET February, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Atlas V N22,Starliner-1,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET December, 2021",,Active,"7,204 kN",,2,2
+Atlas V N22,Starliner-2,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET Apr 21, 2022",,Active,"7,204 kN",,2,2
+Atlas V N22,Starliner-3,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET Dec 14, 2022",,Active,"7,204 kN",,2,2
+Falcon 9 Block 5,CRS-25,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET April, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,CRS-26,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET September, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Long March 2D,"Gaofen-9 05, Tiantuo-5 & MTS",CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Sun Aug 23, 2020 02:27 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Long March 4B,Shijian-6E & 6F,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Sat Oct 25, 2008 01:15 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Long March 3B/E,VENESAT 1,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Wed Oct 29, 2008 16:53 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
+Long March 2D,Shiyan-3 & Chuangxin-1(02),CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Nov 05, 2008 00:15 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Long March 2D,Shiyan-3 & Chuangxin-1(02),CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Nov 05, 2008 00:15 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Electron/Photon,I Can’t Believe It’s Not Optical!,Rocket Lab,Success,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Mon Aug 31, 2020 03:05 UTC",,Active,162 kN,17.0 m,3,0
+Soyuz U,Cosmos 559,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri May 18, 1973 11:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 587,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 21, 1973 13:05 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 605,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Oct 31, 1973 18:24 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 636,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Mar 20, 1974 08:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 652,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed May 15, 1974 08:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 691,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Oct 25, 1974 09:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 697,RVSN USSR,Partial Failure,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Dec 13, 1974 13:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Yantar-2K n°01,RVSN USSR,Failure,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu May 23, 1974 12:16 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 690,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Oct 22, 1974 17:59 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 720,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Mar 21, 1975 06:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 759,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 12, 1975 05:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 771,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Sep 25, 1975 09:49 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 743,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jun 12, 1975 12:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 727,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 16, 1975 08:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 758,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 05, 1975 14:49 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 782,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Nov 25, 1975 17:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 772,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Sep 29, 1975 04:19 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz,Soyuz 7K-OK n°1,RVSN USSR,Prelaunch Failure,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Dec 14, 1966 11:27 UTC",,Retired,"4,973 kN",45.6 m,2,4
+Soyuz U,Cosmos 805,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Feb 20, 1976 14:01 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 847,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Aug 04, 1976 13:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 856,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Sep 22, 1976 09:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 840,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Jul 14, 1976 09:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 834,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jun 24, 1976 07:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 865,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Nov 01, 1976 11:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 809,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Mar 18, 1976 09:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 848,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Aug 12, 1976 13:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 852,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Aug 28, 1976 09:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 855,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Sep 21, 1976 11:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 866,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Nov 11, 1976 10:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 884,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Dec 17, 1976 09:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 857,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 24, 1976 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 863,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Oct 25, 1976 14:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 854,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Sep 03, 1976 09:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 859,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Oct 10, 1976 09:35 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 806,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Mar 10, 1976 08:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 879,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Dec 09, 1976 10:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 867,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Nov 23, 1976 16:27 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 820,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri May 21, 1976 07:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Zenit-4MKT n°370,RVSN USSR,Failure,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Oct 04, 1976 11:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 844,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jul 22, 1976 15:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 869,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Nov 29, 1976 16:04 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 889,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Jan 20, 1977 08:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 902,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Apr 07, 1977 08:59 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 898,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Mar 17, 1977 08:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 916,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Jun 10, 1977 08:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 912,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu May 26, 1977 07:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 892,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Feb 09, 1977 11:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 897,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Mar 10, 1977 11:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 966,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Dec 12, 1977 09:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 922,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Jun 30, 1977 14:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 905,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Apr 26, 1977 14:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 964,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Sun Dec 04, 1977 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 920,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jun 22, 1977 08:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 896,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Mar 03, 1977 10:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 958,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Oct 11, 1977 15:14 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 950,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Sep 13, 1977 15:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 935,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jul 29, 1977 08:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 914,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue May 31, 1977 07:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 947,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Aug 27, 1977 10:09 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 915,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Jun 08, 1977 14:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 907,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu May 05, 1977 14:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 908,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue May 17, 1977 10:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 904,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 20, 1977 09:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 927,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jul 12, 1977 09:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Ares 1-X,Ares 1-X Test Flight,NASA,Success,"LC-39B, Kennedy Space Center, Florida, USA","Wed Oct 28, 2009 15:30 UTC",$450.0 million,Retired,"15,000 kN",94.0 m,1,0
+Proton K/Block DM-3,PAS-22,ILS,Partial Failure,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Wed Dec 24, 1997 23:19 UTC",,Retired,"9,548 kN",57.64 m,4,
+Soyuz U,Cosmos 932,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jul 20, 1977 07:35 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 934,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Jul 27, 1977 18:07 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 938,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Aug 24, 1977 14:29 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 953,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 16, 1977 14:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 888,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Jan 06, 1977 09:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 948,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Sep 02, 1977 09:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 957,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Sep 30, 1977 09:46 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 973,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Dec 27, 1977 09:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 969,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Dec 20, 1977 15:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Zenit-4MK n°381,RVSN USSR,Failure,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 22, 1977 09:19 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 949,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Sep 06, 1977 17:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Zenit-4MKM n°399,RVSN USSR,Failure,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Aug 10, 1977 10:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 936,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Aug 03, 1977 14:01 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 24,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Feb 07, 1977 16:11 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 25,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 09, 1977 02:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 26,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Dec 10, 1977 01:18 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 984,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Jan 13, 1978 15:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1010,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue May 23, 1978 07:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 974,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Jan 06, 1978 15:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1004,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri May 05, 1978 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 988,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Feb 08, 1978 12:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 992,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Mar 04, 1978 07:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1007,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue May 16, 1978 10:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 986,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jan 24, 1978 09:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 995,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Mar 17, 1978 10:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 987,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jan 31, 1978 14:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 989,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 14, 1978 09:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 993,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Mar 10, 1978 10:42 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1002,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Apr 06, 1978 09:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 999,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Mar 30, 1978 07:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1003,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Apr 20, 1978 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1012,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu May 25, 1978 14:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1021,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Jun 10, 1978 08:35 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1022,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Mon Jun 12, 1978 10:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1028,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Sat Aug 05, 1978 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1029,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Aug 29, 1978 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1031,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Sat Sep 09, 1978 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1032,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Sep 19, 1978 08:05 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1033,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Oct 03, 1978 11:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1042,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Oct 06, 1978 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1044,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Oct 17, 1978 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1046,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Nov 01, 1978 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1047,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Nov 15, 1978 11:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1049,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Nov 21, 1978 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1050,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Nov 28, 1978 16:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1059,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Dec 07, 1978 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1060,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Dec 08, 1978 09:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1061,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Dec 14, 1978 15:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1069,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Dec 28, 1978 16:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1068,RVSN USSR,Partial Failure,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Dec 26, 1978 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+PSLV-XL,GSAT-12R,ISRO,,"Second Launch Pad, Satish Dhawan Space Centre, India","NET December, 2020",$31.0 million,Active,"7,661 kN",44.0 m,4,6
+Starship Prototype,150 Meter Hop,SpaceX,Success,"Pad A, South Texas Launch Site, Texas, USA","Thu Sep 03, 2020 17:48 UTC",,Active,"6,000 kN",50.0 m,1,0
+Falcon 9 Block 5,O3b mPOWER 7-9,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET June, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,O3b mPOWER 10-11,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET June, 2024",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Thor DM-21 Agena-D,OPS 0048,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Mon Jan 07, 1963 21:09 UTC",,Retired,,,3,0
+Thor DM-21 Agena-B,OPS 0180,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Wed Jan 16, 1963 21:59 UTC",,Retired,,,3,0
+Delta B,Syncom 1,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu Feb 14, 1963 05:35 UTC",,Retired,,,3,0
+Thor-SLV2A Agena-D,OPS 0583,US Air Force,Failure,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Thu Feb 28, 1963 21:48 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor-SLV2A Agena-D,OPS 0627,US Air Force,Failure,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Mon Mar 18, 1963 21:13 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Delta B,Explorer 17,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Wed Apr 03, 1963 02:00 UTC",,Retired,,,3,0
+Thor DM-21 Agena-D,OPS 1008,US Air Force,Failure,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Fri Apr 26, 1963 20:13 UTC",,Retired,,,3,0
+Delta B,Telstar 2,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Tue May 07, 1963 11:38 UTC",,Retired,,,3,0
+Thor-SLV2A Agena-D,OPS 0924,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat May 18, 1963 22:21 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor-SLV2A Agena-D,OPS 0954,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Jun 12, 1963 23:58 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor DM-21 Agena-D,Poppy 4A-4C and others,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Sat Jun 15, 1963 14:29 UTC",,Retired,,,3,0
+Delta B,TIROS-7,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Jun 19, 1963 09:50 UTC",,Retired,,,3,0
+Thor-SLV2A Agena-D,OPS 0999 & Hitchhiker 1,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Thu Jun 27, 1963 00:37 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor-SLV2A Agena-D,OPS 1440,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Sat Jun 29, 1963 22:30 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor DM-21 Agena-D,OPS 1266,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Fri Jul 19, 1963 00:00 UTC",,Retired,,,3,0
+Delta B,Syncom 2,US Air Force,Success,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri Jul 26, 1963 14:33 UTC",,Retired,,,3,0
+Thor-SLV2A Agena-D,OPS 1370,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Wed Jul 31, 1963 00:00 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor-SLV2A Agena-D,OPS 1419,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sun Aug 25, 1963 00:30 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor DM-21 Agena-D,OPS 1561 & LAMPO,US Air Force,Success,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Thu Aug 29, 1963 20:31 UTC",,Retired,,,3,0
+Thor-SLV2A Agena-D,OPS 1353,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Mon Sep 23, 1963 23:00 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor-DSV2A Ablestar,Transit 5BN-1 & Transit 5E-1,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Sat Sep 28, 1963 20:22 UTC",,Retired,,,2,0
+Thor-SLV2A Agena-D,OPS 2437 & Hitchhiker 2,US Air Force,Success,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Tue Oct 29, 1963 21:19 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Thor DM-21 Agena-D,OPS 2268,US Air Force,Failure,"SLC-2W, Vandenberg AFB, California, USA","Sat Nov 09, 1963 20:27 UTC",,Retired,,,3,0
+Delta C,Explorer 18,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Nov 27, 1963 02:30 UTC",,Retired,667 kN,31.0 m,3,0
+Thor DM-21 Agena-D,OPS 2260,US Air Force,Success,"SLC-3W, Vandenberg AFB, California, USA","Wed Nov 27, 1963 21:15 UTC",,Retired,,,3,0
+Thor-DSV2A Ablestar,Transit 5BN-2 & Transit 5E-3,US Air Force,Success,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Thu Dec 05, 1963 21:51 UTC",,Retired,,,2,0
+Delta B,TIROS-8,US Air Force,Success,"SLC-17B, Cape Canaveral AFS, Florida, USA","Sat Dec 21, 1963 09:30 UTC",,Retired,,,3,0
+Thor-SLV2A Agena-D,OPS 1388 & Hitchhiker 3,US Air Force,Success,"SLC-2W, Vandenberg AFB, California, USA","Sat Dec 21, 1963 21:45 UTC",,Retired,"1,571 kN",31.0 m,2,3
+Long March 2D,Yaogan 4,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Mon Dec 01, 2008 04:42 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Long March 4B,Yaogan 5,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Mon Dec 15, 2008 03:22 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Long March 3A,Fengyun-2E,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Tue Dec 23, 2008 00:54 UTC",$69.7 million,Active,"2,962 kN",52.52 m,3,0
+Long March 3C,Beidou-2 G2,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Tue Apr 14, 2009 16:16 UTC",$20.14 million,Active,"5,923 kN",55.64 m,3,2
+Long March 2C,Yaogan 6,CASC,Success,"LC-7, Taiyuan Satellite Launch Center, China","Wed Apr 22, 2009 02:55 UTC",$30.8 million,Active,"2,962 kN",42.0 m,2,0
+Long March 3B,Palapa-D,CASC,Partial Failure,"LC-2, Xichang Satellite Launch Center, China","Mon Aug 31, 2009 09:28 UTC",,Active,"5,924 kN",54.8 m,3,4
+Long March 2C,Shijian-11-01,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Nov 12, 2009 02:45 UTC",$30.8 million,Active,"2,962 kN",42.0 m,2,0
+Long March 2D,Yaogan 7,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Dec 09, 2009 08:42 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Long March 4C,Yaogan 8 & Xiwang 1,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Tue Dec 15, 2009 02:31 UTC",$64.68 million,Active,"2,971 kN",45.8 m,3,0
+Long March 3C,Beidou-2 G1,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Sat Jan 16, 2010 16:12 UTC",$20.14 million,Active,"5,923 kN",55.64 m,3,2
+Long March 4C,"Yaogan 9 A, B & C",CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Fri Mar 05, 2010 04:55 UTC",$64.68 million,Active,"2,971 kN",45.8 m,3,0
+Long March 3C,Beidou-2 G3,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Wed Jun 02, 2010 15:53 UTC",$20.14 million,Active,"5,923 kN",55.64 m,3,2
+Kuaizhou 1A,Jilin-1 High Resolution 02D,ExPace,,"Site 95, Jiuquan Satellite Launch Center, China","NET November, 2020",$5.8 million,Active,,19.4 m,3,0
+Kuaizhou 1A,Jilin-1 High Resolution 02F,ExPace,,"Site 95, Jiuquan Satellite Launch Center, China","NET November, 2020",$5.8 million,Active,,19.4 m,3,0
+Angara A5/Perseï,MGM n°3,VKS RF,,"Site 35/1, Plesetsk Cosmodrome, Russia","NET January, 2021",,Planned,"7,680 kN",,3,4
+Long March 3B/E,Zheng He Mission,CASC,,"Xichang Satellite Launch Center, China","NET January, 2024",$29.15 million,Active,"5,922 kN",56.3 m,3,4
+Falcon 9 Block 5,Masten Mission One (MM1),SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET December, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Proton K/Block-DM,Raduga n°16L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Feb 20, 1980 08:05 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Gorizont N°15L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Jun 14, 1980 00:49 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Ekran N°19L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Mon Jul 14, 1980 22:35 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Raduga n°17L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Sun Oct 05, 1980 17:10 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Ekran N°20L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Tue Dec 16, 1980 11:49 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Raduga n°18L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Wed Mar 18, 1981 04:40 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K,Cosmos 1267 (TKS N°16301),RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Apr 25, 1981 02:01 UTC",,Retired,"8,681 kN",58.46 m,3,0
+Proton K/Block-DM,Ekran N°21L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu Jun 25, 1981 23:55 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Raduga n°19L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jul 30, 1981 21:38 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Raduga n°20L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Oct 09, 1981 16:59 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block D-1,Venera 13,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Oct 30, 1981 06:04 UTC",,Retired,"9,468 kN",56.14 m,4,0
+Proton K/Block D-1,Venera 14,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Nov 04, 1981 05:31 UTC",,Retired,"9,468 kN",56.14 m,4,0
+Proton K/Block-DM,Ekran N°22L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Feb 05, 1982 09:12 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Gorizont N°14L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Mar 15, 1982 04:39 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K,Salyut 7,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Mon Apr 19, 1982 19:45 UTC",,Retired,"8,681 kN",58.46 m,3,0
+Proton K/Block-DM,Geizer N°11L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon May 17, 1982 23:50 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Ekran N°23L,RVSN USSR,Failure,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu Jul 22, 1982 22:11 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Ekran N°24L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu Sep 16, 1982 18:31 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2,Uragan N°11L/GVM,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Oct 12, 1982 14:57 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block-DM,Gorizont N°16L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Wed Oct 20, 1982 16:26 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Raduga n°21L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Nov 26, 1982 14:13 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Raduga n°22L,RVSN USSR,Failure,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Dec 24, 1982 12:00 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Altaïr,Demo Flight,CNES,,"Aérodrome de Kourou, Guiana Space Centre, French Guiana, France","NET December, 2023",,Planned,,,2,0
+Proton K,Cosmos 1443 (TKS N°16401),RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Mar 02, 1983 09:37 UTC",,Retired,"8,681 kN",58.46 m,3,0
+Proton K/Block-DM,Ekran n°18L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Sat Mar 12, 1983 14:00 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block D-1,Astron,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Mar 23, 1983 12:45 UTC",,Retired,"9,468 kN",56.14 m,4,0
+Long March 6,Qilu-1 & 4,CASC,,"LC-16, Taiyuan Satellite Launch Center, China","NET January, 2021",,Active,"1,188 kN",29.24 m,3,0
+Long March 2D,ASO-S,CASC,,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","NET January, 2022",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Soyuz U,Progress 1,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jan 20, 1978 08:24 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 2,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jul 07, 1978 11:26 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 3,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Aug 07, 1978 22:31 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 4,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Oct 03, 1978 23:09 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 5,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon Mar 12, 1979 05:47 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 6,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun May 13, 1979 04:17 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 7,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Jun 28, 1979 09:25 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 8,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Mar 27, 1980 18:53 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 9,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Apr 27, 1980 06:24 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 10,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Jun 29, 1980 04:41 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 11,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Sep 28, 1980 15:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 12,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Jan 24, 1981 14:18 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 13,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun May 23, 1982 05:57 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 14,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Jul 10, 1982 19:58 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 15,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Sep 18, 1982 04:59 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 16,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 31, 1982 11:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 17,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Aug 17, 1983 12:08 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 18,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Oct 20, 1983 09:59 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 19,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 21, 1984 06:46 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U2,Progress 20,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Apr 15, 1984 08:12 UTC",,Retired,,34.5 m,2,4
+Soyuz U,Progress 21,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon May 07, 1984 22:47 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 22,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon May 28, 1984 14:12 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 23,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Aug 14, 1984 06:28 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress 24,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 21, 1985 00:39 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1669,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 19, 1985 13:05 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1026,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Jul 02, 1978",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1001,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Apr 04, 1978",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 27,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jan 10, 1978 12:26 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 28,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Mar 02, 1978 15:28 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 29,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jun 15, 1978 20:16 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 30,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jun 27, 1978 15:27 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 31,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Aug 26, 1978 14:51 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Long March 11,GECAM,CASIC,,"Xichang Satellite Launch Center, China","NET December, 2020",$5.3 million,Active,"1,200 kN",20.8 m,4,0
+Falcon Heavy,USSF-67,SpaceX,,"LC-39A, Kennedy Space Center, Florida, USA","NET August, 2022",$90.0 million,Active,"22,819 kN",70.0 m,2,2
+Soyuz U2,Progress 25,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Mar 19, 1986 10:08 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 26,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Apr 23, 1986 19:40 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 27,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 16, 1987 06:06 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 28,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Mar 03, 1987 11:14 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 29,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Apr 21, 1987 15:14 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 30,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue May 19, 1987 04:02 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 31,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Aug 03, 1987 20:44 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 32,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 23, 1987 23:43 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 33,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 20, 1987 23:47 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 34,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jan 20, 1988 22:51 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 35,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Mar 23, 1988 21:05 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 36,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri May 13, 1988 00:30 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 37,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Jul 18, 1988 21:13 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 38,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 09, 1988 23:33 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 39,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Dec 25, 1988 04:11 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 40,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Feb 10, 1989 08:53 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 41,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Mar 16, 1989 18:54 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-1,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Aug 23, 1989 03:09 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-2,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Dec 20, 1989 03:30 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-3,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Jan 28, 1990 23:10 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress 42,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat May 05, 1990 20:44 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-4,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Aug 15, 1990 04:00 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-5,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Sep 27, 1990 10:37 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-6,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Jan 14, 1991 14:50 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-7,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Mar 19, 1991 13:05 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-8,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu May 30, 1991 08:04 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-9,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Aug 20, 1991 22:54 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-10,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 17, 1991 00:05 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-11,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Jan 25, 1992 07:50 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-12,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Apr 19, 1992 21:29 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-13,Roscosmos,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jun 30, 1992 16:43 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-14,Roscosmos,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Aug 15, 1992 22:18 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-15,Roscosmos,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Oct 27, 1992 17:19 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-16,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Feb 21, 1993 18:32 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-17,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Mar 31, 1993 03:34 UTC",,Retired,,34.5 m,2,4
+Soyuz U2,Progress M-18,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat May 22, 1993 06:41 UTC",,Retired,,34.5 m,2,4
+Soyuz U,Progress M-19,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Aug 10, 1993 22:23 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-20,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Oct 11, 1993 21:33 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-21,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 28, 1994 02:12 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-22,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Mar 22, 1994 04:54 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-23,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun May 22, 1994 04:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-24,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Aug 25, 1994 14:25 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-25,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Nov 11, 1994 07:21 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-26,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Feb 15, 1995 16:42 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-27,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Apr 09, 1995 19:34 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-28,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jul 20, 1995 03:04 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-29,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 08, 1995 18:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-30,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Dec 18, 1995 14:31 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-31,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun May 05, 1996 07:04 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-32,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jul 31, 1996 20:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-33,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Nov 19, 1996 23:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-34,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Apr 06, 1997 16:04 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-35,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Jul 05, 1997 04:11 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-36,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 05, 1997 15:08 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-37,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Dec 20, 1997 08:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-38,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Mar 14, 1998 22:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-39,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu May 14, 1998 22:12 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-40,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Oct 25, 1998 04:14 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-41,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 02, 1999 11:28 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-42,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jul 16, 1999 16:37 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M1-1,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Feb 01, 2000 06:47 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M1-2,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Apr 25, 2000 20:08 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M1-3,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Aug 06, 2000 18:26 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Progress M-43,Roscosmos,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Oct 16, 2000 21:27 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Vulcan Centaur,USSF-106,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET June, 2022",,Planned,,58.3 m,2,
+Vulcan Centaur,USSF-51,ULA,,"SLC-41, Cape Canaveral AFS, Florida, USA","NET January, 2022",,Planned,,58.3 m,2,
+Ariane 5 ECA,Galaxy 35 & 36,ESA,,"ELA-3, Guiana Space Centre, French Guiana, France","NET October, 2022",$200.0 million,Active,"15,120 kN",53.0 m,2,2
+Falcon 9 Block 5,Galaxy 31 & 32,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET June, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Galaxy 33 & 34,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET June, 2022",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Electron/Curie,In Focus,Rocket Lab,Success,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Wed Oct 28, 2020 21:21 UTC",$7.5 million,Active,225 kN,17.0 m,3,0
+New Shepard,NS-13,Blue Origin,Success,"Blue Origin Launch Site, West Texas, Texas, USA","Tue Oct 13, 2020 13:38 UTC",,Active,490 kN,18.0 m,2,0
+Angara A7,Nuclear Space Tug,Roscosmos,,"Site 1A, Vostochny Cosmodrome, Russia","NET January, 2030",,Planned,,,3,6
+Falcon 9 Block 5,IMAP,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET October, 2024",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Long March 2C,Yaogan-30 07 & Apocalypse-6,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Mon Oct 26, 2020 15:19 UTC",$30.8 million,Active,"2,962 kN",42.0 m,2,0
+Long March 4B,Huanjing-2A & 2B,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Sun Sep 27, 2020 03:23 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Soyuz U,Cosmos 1095,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Apr 20, 1979 11:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1079,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Feb 27, 1979 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1103,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu May 31, 1979 16:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1078,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Feb 22, 1979 12:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1080,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Mar 14, 1979 10:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1099,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu May 17, 1979 07:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1090,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Sat Mar 31, 1979 10:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1106,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jun 12, 1979 07:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1118,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jul 27, 1979 07:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1098,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue May 15, 1979 11:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1113,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jul 10, 1979 09:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1105,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Jun 08, 1979 07:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1115,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jul 13, 1979 08:25 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1122,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Aug 17, 1979 07:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1102,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri May 25, 1979 07:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1111,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Jun 29, 1979 16:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1119,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Aug 03, 1979 10:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1142,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Mon Oct 22, 1979 12:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1123,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Aug 21, 1979 11:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1126,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Aug 31, 1979 11:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1138,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 28, 1979 12:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1107,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Jun 15, 1979 10:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1144,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Nov 02, 1979 16:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1117,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Jul 25, 1979 15:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1120,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Aug 11, 1979 09:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1148,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Dec 28, 1979 13:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1128,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Sep 14, 1979 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1121,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Aug 14, 1979 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Zenit-6 n°473,RVSN USSR,Failure,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Oct 12, 1979 12:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1139,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Oct 05, 1979 11:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1108,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 22, 1979 07:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Zenit-2M n°447,RVSN USSR,Failure,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Feb 16, 1979 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1073,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jan 30, 1979 15:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1097,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Apr 27, 1979 17:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1147,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Dec 12, 1979 12:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1071,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Jan 13, 1979 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1070,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jan 11, 1979 15:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1129,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Sep 25, 1979 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1074,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jan 31, 1979",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 32,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Feb 25, 1979 11:53 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 33,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Apr 10, 1979 17:34 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 34,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Jun 06, 1979 18:12 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz T-1,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Dec 16, 1979 12:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1127,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Sep 05, 1979 10:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Long March 3B/E,Gaofen-13,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Sun Oct 11, 2020 16:57 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
+Falcon 9 Block 5,NROL-108,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET Nov 18, 2020",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+Falcon 9 Block 5,Satria,SpaceX,,"SLC-40, Cape Canaveral AFS, Florida, USA","NET January, 2023",$50.0 million,Active,"7,607 kN",70.0 m,2,0
+H-IIA 202,JDRS-1,MHI,,"LA-Y1, Tanegashima Space Center, Japan","Sun Nov 29, 2020 07:15 UTC",$90.0 million,Active,,53.0 m,2,2
+Soyuz 2.1b/Fregat-M,Arktika-M n°3,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET January, 2024",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Arktika-M n°4,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET July, 2024",,Active,"4,150 kN",42.5 m,4,4
+Soyuz 2.1b/Fregat-M,Arktika-M n°5,Roscosmos,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET January, 2025",,Active,"4,150 kN",42.5 m,4,4
+Proton-M/DM-3,Elektro-L n°4,Roscosmos,,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","NET January, 2022",$65.0 million,Active,"10,532 kN",53.0 m,4,0
+Proton-M/DM-3,Elektro-L n°5,Roscosmos,,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","NET January, 2023",$65.0 million,Active,"10,532 kN",53.0 m,4,0
+Soyuz 2.1b/Fregat,OneWeb #18,Starsem,,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","NET February, 2022",$24.09 million,Active,"4,150 kN",42.5 m,4,4
+R-36 Orb,OGTch n°18,RVSN USSR,Success,"Site 162/62, Baikonur Cosmodrome, Kazakhstan","Mon May 20, 1968 22:05 UTC",,Retired,"2,640 kN",40.0 m,2,0
+R-36 Orb,OGTch n°19,RVSN USSR,Success,"Site 161/61, Baikonur Cosmodrome, Kazakhstan","Mon May 27, 1968 23:15 UTC",,Retired,"2,640 kN",40.0 m,2,0
+R-36 Orb,OGTch n°01,RVSN USSR,Success,"Site 67/21, Baikonur Cosmodrome, Kazakhstan","Thu Dec 16, 1965 14:09 UTC",,Retired,"2,640 kN",40.0 m,2,0
+R-36 Orb,OGTch n°02,RVSN USSR,Success,"Site 67/21, Baikonur Cosmodrome, Kazakhstan","Sat Feb 05, 1966 12:19 UTC",,Retired,"2,640 kN",40.0 m,2,0
+R-36 Orb,OGTch n°03,RVSN USSR,Prelaunch Failure,"Site 67/21, Baikonur Cosmodrome, Kazakhstan","Tue Mar 15, 1966 23:59 UTC",,Retired,"2,640 kN",40.0 m,2,0
+R-36 Orb,OGTch n°04,RVSN USSR,Success,"Site 67/22, Baikonur Cosmodrome, Kazakhstan","Thu May 19, 1966 19:30 UTC",,Retired,"2,640 kN",40.0 m,2,0
+Angara A5/Perseï,Demo Flight,VKS RF,,"Site 1A, Vostochny Cosmodrome, Russia","NET March, 2021",,Planned,"7,680 kN",,3,4
+Krylo,Landing Demo,Roscosmos,,"Site 86/1, Kapustin Yar, Russia","NET November, 2021",,Planned,,,2,0
+Long March 4C,Yaogan-31 02,CASC,,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","NET November, 2020",$64.68 million,Active,"2,971 kN",45.8 m,3,0
+Tsyklon-3,Koronass F,VKS RF,Success,"Site 32/2, Plesetsk Cosmodrome, Russia","Tue Jul 31, 2001 07:59 UTC",,Retired,"3,032 kN",39.0 m,3,0
+Long March 7A,XJY-6 02,CASC,,"LC-201, Wenchang Satellite Launch Center, China","NET April, 2021",,Active,"7,200 kN",,3,4
+Long March 7A,XJY-7,CASC,,"LC-201, Wenchang Satellite Launch Center, China","NET January, 2021",,Active,"7,200 kN",,3,4
+Zoljanah,Nahid 2,ISA,,"Imam Khomeini Spaceport, Semnan Space Center, Iran","NET November, 2020",,Planned,,21.0 m,4,0
+Soyuz ST-B/Fregat-MT,Sentinel-1C,Arianespace,,"ELS, Guiana Space Centre, French Guiana, France","NET August, 2023",,Active,,46.2 m,4,4
+H-IIA 202,SLIM & XRISM,JAXA,,"LA-Y1, Tanegashima Space Center, Japan","NET January, 2022",$90.0 million,Active,,53.0 m,2,2
+Amur/Fregat-M,GVM-M (Demo Flight),Roscosmos,,"Site 2A, Vostochny Cosmodrome, Russia","NET January, 2026",$22.0 million,Planned,,55.0 m,3,0
+Terran-1,Cryogenic Demonstration Mission,Relativity,,"SLC-16, Cape Canaveral AFS, Florida, USA","NET October, 2023",$10.0 million,Planned,,,2,0
+Soyuz 2.1a/Fregat-M,Kondor-FKA n°2,Roscosmos,,"Site 1S, Vostochny Cosmodrome, Russia","NET January, 2022",$48.5 million,Active,"4,150 kN",42.5 m,4,4
+Proton K/Block-DM,Raduga n°23L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Apr 08, 1983 04:45 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block D-1,Venera 15,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jun 02, 1983 02:38 UTC",,Retired,"9,468 kN",56.14 m,4,0
+Proton K/Block-DM,Venera 16,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Tue Jun 07, 1983 02:32 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Gorizont n°17L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Jun 30, 1983 23:56 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2,"Uragan n°12, n°12 & GVM",RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Aug 10, 1983 18:24 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block-DM,Raduga n°24,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu Aug 25, 1983 20:02 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Ekran n°25,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Sep 23, 1983 17:37 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Gorizont n°18L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Nov 30, 1983 13:51 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2,"Uragan n°14, n°15, GVM",RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu Dec 29, 1983 00:52 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block-DM,Raduga n°25,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Wed Feb 15, 1984 08:46 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Potok n°12,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Mar 02, 1984 03:54 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block-DM,Ekran n°26,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Mar 16, 1984 14:00 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2M,Garuda 1,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sat Feb 12, 2000 09:10 UTC",,Retired,"9,548 kN",57.64 m,4,
+Long March 2D,Shijian-12,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Jun 15, 2010 01:39 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Proton K/Block DM-2M,Ekspress-A2,Roscosmos,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Mar 12, 2000 04:07 UTC",,Retired,"9,548 kN",57.64 m,4,
+Long March 3A,Beidou-2 IGSO1,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Sat Jul 31, 2010 01:39 UTC",$69.7 million,Active,"2,962 kN",52.52 m,3,0
+Proton K/Block-DM,Cosmos 1546,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu Mar 29, 1984 05:53 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Long March 4C,Yaogan 10,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Mon Aug 09, 2010 22:49 UTC",$64.68 million,Active,"2,971 kN",45.8 m,3,0
+Proton K/Block DM-4,SESAT 1 (Eutelsat 16C),Roscosmos,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Mon Apr 17, 2000 21:06 UTC",,Retired,"9,548 kN",57.64 m,4,
+Proton K/Briz-M,Gorizont N°45L,Roscosmos,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Tue Jun 06, 2000 02:59 UTC",,Retired,"9,548 kN",54.54 m,4,
+Long March 2D,Tianhui-1A,CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Tue Aug 24, 2010 07:10 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Proton K/Block DM-2M,Ekspress-A3,Roscosmos,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Jun 24, 2000 00:28 UTC",,Retired,"9,548 kN",57.64 m,4,
+Long March 3B/E,Chinasat-6A,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Sat Sep 04, 2010 16:14 UTC",$29.15 million,Active,"5,922 kN",56.3 m,3,4
+Proton K/Block DM-2M,Sirius FM-1,ILS,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Jun 30, 2000 22:08 UTC",,Retired,"9,548 kN",57.64 m,4,
+Long March 2D,"Yaogan 11, ZDPS-1A & 1B",CASC,Success,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Wed Sep 22, 2010 02:42 UTC",$29.75 million,Active,"2,962 kN",41.06 m,2,0
+Proton K/Block DM-2M,Cosmos 2371,VKS RF,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Tue Jul 04, 2000 23:44 UTC",,Retired,"9,548 kN",57.64 m,4,
+Long March 3C,Chang'e 2,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Fri Oct 01, 2010 10:59 UTC",$20.14 million,Active,"5,923 kN",55.64 m,3,2
+Soyuz U,Cosmos 1152,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jan 24, 1980 15:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1177,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Apr 29, 1980 13:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1208,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Aug 26, 1980 15:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1218,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Oct 30, 1980 10:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1149,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Jan 09, 1980 12:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K,Zvezda,Roscosmos,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Wed Jul 12, 2000 04:56 UTC",,Retired,"8,681 kN",58.46 m,3,0
+Soyuz U,Cosmos 1155,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Feb 07, 1980 11:02 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1165,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Feb 21, 1980 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1166,RVSN USSR,Success,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Mar 04, 1980 10:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1170,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Apr 01, 1980 08:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1173,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Apr 17, 1980 08:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1178,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed May 07, 1980 13:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1180,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu May 15, 1980 05:35 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1182,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri May 23, 1980 07:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1183,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed May 28, 1980 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1187,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Jun 12, 1980 12:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1189,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Jun 26, 1980 12:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1200,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Jul 09, 1980 12:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1201,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Jul 15, 1980 07:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1202,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jul 24, 1980 12:40 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1205,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Aug 12, 1980 11:50 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1207,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Aug 22, 1980 10:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1210,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Sep 19, 1980 10:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1211,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Sep 23, 1980 10:30 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1212,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Sep 26, 1980 10:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1213,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Oct 03, 1980 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1214,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Oct 10, 1980 13:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1216,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Oct 16, 1980 12:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1219,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Oct 31, 1980 12:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1221,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Nov 12, 1980 12:21 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Long March 4B,Shijian-6G & 6H,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Wed Oct 06, 2010 00:49 UTC",$64.68 million,Active,"2,971 kN",44.1 m,3,0
+Soyuz U,Cosmos 1224,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Mon Dec 01, 1980 12:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1227,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Tue Dec 16, 1980 12:15 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1236,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Dec 26, 1980 16:10 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block DM-2,Raduga-1 n°5,Roscosmos,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Aug 28, 2000 20:08 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Long March 3C,Beidou-2 G4,CASC,Success,"LC-2, Xichang Satellite Launch Center, China","Sun Oct 31, 2010 16:26 UTC",$20.14 million,Active,"5,923 kN",55.64 m,3,2
+Long March 4C,Fengyun-3B,CASC,Success,"LC-9, Taiyuan Satellite Launch Center, China","Thu Nov 04, 2010 18:37 UTC",$64.68 million,Active,"2,971 kN",45.8 m,3,0
+Soyuz U,Cosmos 1209,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Sep 03, 1980 10:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1203,RVSN USSR,Success,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jul 31, 1980 07:45 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Cosmos 1185,RVSN USSR,Success,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Jun 06, 1980 07:00 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block DM-2M,Sirius FM-2,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Tue Sep 05, 2000 09:43 UTC",,Retired,"9,548 kN",57.64 m,4,
+Long March 3A,Chinasat-20A,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Wed Nov 24, 2010 16:09 UTC",$69.7 million,Active,"2,962 kN",52.52 m,3,0
+Long March 3A,Beidou-2 IGSO2,CASC,Success,"LC-3, Xichang Satellite Launch Center, China","Fri Dec 17, 2010 20:20 UTC",$69.7 million,Active,"2,962 kN",52.52 m,3,0
+Proton K/Block DM-2M,GE-1A,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sun Oct 01, 2000 22:00 UTC",,Retired,"9,548 kN",57.64 m,4,
+Soyuz U,Soyuz 35,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 09, 1980 13:38 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block DM-2,"Cosmos 2374, Cosmos 2375, Cosmos 2376",VKS RF,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Oct 13, 2000 14:12 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Soyuz U,Soyuz 36,RVSN USSR,Success,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Mon May 26, 1980 18:20 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block DM-2M,GE-6,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sat Oct 21, 2000 22:00 UTC",,Retired,"9,548 kN",57.64 m,4,
+Proton K/Block DM-2,Sirius FM-3,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Thu Nov 30, 2000 19:59 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block-DM,Gorizont n°19L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sun Apr 22, 1984 04:20 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2,"Uragan n°16, n°17, GVM",RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Sat May 19, 1984 15:11 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Soyuz U,Soyuz T-2,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jun 05, 1980 14:19 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block-DM,Raduga n°27,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Jun 22, 1984 00:20 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Soyuz U,Soyuz 37,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jul 23, 1980 18:33 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Soyuz U,Soyuz 38,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Sep 26, 1980 15:54 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block-DM,Gorizont n°20L,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Wed Aug 01, 1984 21:36 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Soyuz U,Soyuz T-3,RVSN USSR,Success,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Nov 27, 1980 14:18 UTC",,Retired,"4,147 kN",51.1 m,3,4
+Proton K/Block-DM,Ekran n°27,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Aug 24, 1984 19:50 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2,"Uragan n°18, n°19, GVM",RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Tue Sep 04, 1984 15:49 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block DM-2,Tselina-2 n°1,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Sep 28, 1984 14:00 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block D-1,Vega-1,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Sat Dec 15, 1984 09:16 UTC",,Retired,"9,468 kN",56.14 m,4,0
+Proton K/Block D-1,Vega-2,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Dec 21, 1984 09:13 UTC",,Retired,"9,468 kN",56.14 m,4,0
+Proton K/Block-DM,Gorizont n°21L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Jan 18, 1985 10:25 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton-M/Briz-M,Ekran-M n°18L,Roscosmos,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Apr 07, 2001 03:47 UTC",$65.0 million,Active,"10,532 kN",58.2 m,4,0
+Proton K/Block DM-2M,PanAmSat-10,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Tue May 15, 2001 01:11 UTC",,Retired,"9,548 kN",57.64 m,4,
+Proton K/Block DM-2M,Astra-2C,ILS,Success,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sat Jun 16, 2001 01:49 UTC",,Retired,"9,548 kN",57.64 m,4,
+Proton K/Block DM-2,Cosmos 2379,VKS RF,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Fri Aug 24, 2001 20:35 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block DM-2,Raduga-1 n°6L,Roscosmos,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Oct 06, 2001 16:45 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block DM-2,"Cosmos 2380, Cosmos 2381, Cosmos 2382",VKS RF,Success,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Dec 01, 2001 18:04 UTC",,Retired,"9,548 kN",57.64 m,4,0
+New Shepard,NS-14,Blue Origin,,"Blue Origin Launch Site, West Texas, Texas, USA","NET November, 2020",,Active,490 kN,18.0 m,2,0
+Proton K/Block-DM,Cosmos-1629,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Feb 21, 1985 07:57 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Electron/Curie,Return To Sender,Rocket Lab,,"Rocket Lab LC-1A, Māhia Peninsula, New Zealand","Mon Nov 16, 2020 01:44 UTC",$7.5 million,Active,225 kN,17.0 m,3,0
+Proton K/Block-DM,Ekran n°28,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Fri Mar 22, 1985 05:00 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K/Block DM-2,"Uragan n°20, n°21, GVM",RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri May 17, 1985 22:28 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block DM-2,Tselina-2 n°2,RVSN USSR,Success,"Site 200/40, Baikonur Cosmodrome, Kazakhstan","Thu May 30, 1985 14:59 UTC",,Retired,"9,548 kN",57.64 m,4,0
+Proton K/Block-DM,Raduga n°26L,RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Thu Aug 08, 1985 21:01 UTC",,Retired,"9,468 kN",54.89 m,4,0
+Proton K,Cosmos 1686 (TKS n°16501),RVSN USSR,Success,"Site 200/39, Baikonur Cosmodrome, Kazakhstan","Fri Sep 27, 1985 08:41 UTC",,Retired,"8,681 kN",58.46 m,3,0
