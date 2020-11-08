@@ -6,11 +6,11 @@ In this project, I am looking at rocket launches and how primarily non-technical
 
 ## Files
 
-**webscraper.py** Contains functions for scraping data off nextspaceflight.com
-**processing.py** Contains functions for formatting and visualizing the data
-**launches.csv** Contains the data from nextspaceflight.com as a csv 
-**analysis.ipynb** Contains the computational essay, integrating functions from previous files
-**test_processing.py** Runs pytests on processing.py to make sure all functions work properly
+**webscraper.py** Contains functions for scraping data off nextspaceflight.com  
+**processing.py** Contains functions for formatting and visualizing the data  
+**launches.csv** Contains the data from nextspaceflight.com as a csv  
+**analysis.ipynb** Contains the computational essay, integrating functions from previous files  
+**test_processing.py** Runs pytests on processing.py to make sure all functions work properly  
 
 ## Dependencies
 
